@@ -10,7 +10,7 @@
             "3": {
                 "HPAddedRatio": 0,
                 "AttackAddedRatio": 0,
-                "DefenceAddedRatio": 0.9,
+                "DefenceAddedRatio": 1,
                 "CriticalChanceBase": 0,
                 "CriticalDamageBase": 0,
                 "HealRatioBase": 0,
@@ -20,7 +20,7 @@
                 "HPAddedRatio": 0,
                 "AttackAddedRatio": 0,
                 "DefenceAddedRatio": 1,
-                "SpeedDelta": 0
+                "SpeedDelta": 1
             },
             "5": {
                 "HPAddedRatio": 0,
@@ -43,36 +43,20 @@
             }
         },
         "weight": {
-            "HPDelta": 0.15,
+            "HPDelta": 0.1,
             "AttackDelta": 0,
             "DefenceDelta": 0.3,
-            "HPAddedRatio": 0.5,
+            "HPAddedRatio": 0.3,
             "AttackAddedRatio": 0,
             "DefenceAddedRatio": 1,
             "SpeedDelta": 1,
             "CriticalChanceBase": 0,
             "CriticalDamageBase": 0,
-            "StatusProbabilityBase": 0.5,
-            "StatusResistanceBase": 0.5,
-            "BreakDamageAddedRatioBase": 0,
-            "HealRatioBase": 0,
-            "PhysicalAddedRatio": 0,
-            "FireAddedRatio": 0,
-            "IceAddedRatio": 0,
-            "ThunderAddedRatio": 0,
-            "WindAddedRatio": 0,
-            "QuantumAddedRatio": 0,
-            "ImaginaryAddedRatio": 0,
-            "SPRatioBase": 1
+            "StatusProbabilityBase": 0.8,
+            "StatusResistanceBase": 0.6,
+            "BreakDamageAddedRatioBase": 0
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 10.08
     },
     "1002": {
         "main": {
@@ -129,25 +113,9 @@
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
-            "BreakDamageAddedRatioBase": 0,
-            "HealRatioBase": 0,
-            "PhysicalAddedRatio": 0,
-            "FireAddedRatio": 0,
-            "IceAddedRatio": 0,
-            "ThunderAddedRatio": 0,
-            "WindAddedRatio": 1,
-            "QuantumAddedRatio": 0,
-            "ImaginaryAddedRatio": 0,
-            "SPRatioBase": 0.5
+            "BreakDamageAddedRatioBase": 0
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 10.2
     },
     "1003": {
         "main": {
@@ -204,25 +172,9 @@
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
-            "BreakDamageAddedRatioBase": 0.5,
-            "HealRatioBase": 0,
-            "PhysicalAddedRatio": 0,
-            "FireAddedRatio": 1,
-            "IceAddedRatio": 0,
-            "ThunderAddedRatio": 0,
-            "WindAddedRatio": 0,
-            "QuantumAddedRatio": 0,
-            "ImaginaryAddedRatio": 0,
-            "SPRatioBase": 0.5
+            "BreakDamageAddedRatioBase": 0.5
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 10.2
     },
     "1004": {
         "main": {
@@ -279,25 +231,9 @@
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 1,
             "StatusResistanceBase": 0,
-            "BreakDamageAddedRatioBase": 0,
-            "HealRatioBase": 0,
-            "PhysicalAddedRatio": 0,
-            "FireAddedRatio": 0,
-            "IceAddedRatio": 0,
-            "ThunderAddedRatio": 0,
-            "WindAddedRatio": 0,
-            "QuantumAddedRatio": 0,
-            "ImaginaryAddedRatio": 1,
-            "SPRatioBase": 0.5
+            "BreakDamageAddedRatioBase": 0
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 10.799999999999999
     },
     "1005": {
         "main": {
@@ -354,25 +290,9 @@
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 1,
             "StatusResistanceBase": 0,
-            "BreakDamageAddedRatioBase": 0,
-            "HealRatioBase": 0,
-            "PhysicalAddedRatio": 0,
-            "FireAddedRatio": 0,
-            "IceAddedRatio": 0,
-            "ThunderAddedRatio": 0,
-            "WindAddedRatio": 0,
-            "QuantumAddedRatio": 0,
-            "ImaginaryAddedRatio": 1,
-            "SPRatioBase": 0.5
+            "BreakDamageAddedRatioBase": 0
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 10.799999999999999
     },
     "1006": {
         "main": {
@@ -429,25 +349,9 @@
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 1,
             "StatusResistanceBase": 0,
-            "BreakDamageAddedRatioBase": 0,
-            "HealRatioBase": 0,
-            "PhysicalAddedRatio": 0,
-            "FireAddedRatio": 0,
-            "IceAddedRatio": 0,
-            "ThunderAddedRatio": 0,
-            "WindAddedRatio": 0,
-            "QuantumAddedRatio": 0,
-            "ImaginaryAddedRatio": 1,
-            "SPRatioBase": 0.5
+            "BreakDamageAddedRatioBase": 0
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 10.799999999999999
     },
     "1008": {
         "main": {
@@ -504,25 +408,9 @@
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
-            "BreakDamageAddedRatioBase": 0,
-            "HealRatioBase": 0,
-            "PhysicalAddedRatio": 0,
-            "FireAddedRatio": 0,
-            "IceAddedRatio": 0,
-            "ThunderAddedRatio": 1,
-            "WindAddedRatio": 0,
-            "QuantumAddedRatio": 0,
-            "ImaginaryAddedRatio": 0,
-            "SPRatioBase": 0.5
+            "BreakDamageAddedRatioBase": 0
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 10.2
     },
     "1009": {
         "main": {
@@ -579,25 +467,9 @@
             "CriticalDamageBase": 0,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
-            "BreakDamageAddedRatioBase": 0.75,
-            "HealRatioBase": 0,
-            "PhysicalAddedRatio": 0,
-            "FireAddedRatio": 1,
-            "IceAddedRatio": 0,
-            "ThunderAddedRatio": 0,
-            "WindAddedRatio": 0,
-            "QuantumAddedRatio": 0,
-            "ImaginaryAddedRatio": 1,
-            "SPRatioBase": 1
+            "BreakDamageAddedRatioBase": 0.75
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 9.27
     },
     "1013": {
         "main": {
@@ -654,25 +526,9 @@
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
-            "BreakDamageAddedRatioBase": 0,
-            "HealRatioBase": 0,
-            "PhysicalAddedRatio": 0,
-            "FireAddedRatio": 0,
-            "IceAddedRatio": 1,
-            "ThunderAddedRatio": 0,
-            "WindAddedRatio": 0,
-            "QuantumAddedRatio": 0,
-            "ImaginaryAddedRatio": 0,
-            "SPRatioBase": 0.5
+            "BreakDamageAddedRatioBase": 0
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 10.2
     },
     "1101": {
         "main": {
@@ -729,25 +585,9 @@
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
-            "BreakDamageAddedRatioBase": 0,
-            "HealRatioBase": 0,
-            "PhysicalAddedRatio": 0,
-            "FireAddedRatio": 0,
-            "IceAddedRatio": 0,
-            "ThunderAddedRatio": 0,
-            "WindAddedRatio": 1,
-            "QuantumAddedRatio": 0,
-            "ImaginaryAddedRatio": 0,
-            "SPRatioBase": 1
+            "BreakDamageAddedRatioBase": 0
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 9.569999999999999
     },
     "1102": {
         "main": {
@@ -804,25 +644,9 @@
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
-            "BreakDamageAddedRatioBase": 0,
-            "HealRatioBase": 0,
-            "PhysicalAddedRatio": 0,
-            "FireAddedRatio": 0,
-            "IceAddedRatio": 0,
-            "ThunderAddedRatio": 0,
-            "WindAddedRatio": 0,
-            "QuantumAddedRatio": 1,
-            "ImaginaryAddedRatio": 0,
-            "SPRatioBase": 0.5
+            "BreakDamageAddedRatioBase": 0
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 10.5
     },
     "1103": {
         "main": {
@@ -879,25 +703,9 @@
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
-            "BreakDamageAddedRatioBase": 0,
-            "HealRatioBase": 0,
-            "PhysicalAddedRatio": 0,
-            "FireAddedRatio": 0,
-            "IceAddedRatio": 0,
-            "ThunderAddedRatio": 1,
-            "WindAddedRatio": 0,
-            "QuantumAddedRatio": 0,
-            "ImaginaryAddedRatio": 0,
-            "SPRatioBase": 0.5
+            "BreakDamageAddedRatioBase": 0
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 10.2
     },
     "1104": {
         "main": {
@@ -954,25 +762,9 @@
             "CriticalDamageBase": 0,
             "StatusProbabilityBase": 0.5,
             "StatusResistanceBase": 0.5,
-            "BreakDamageAddedRatioBase": 0,
-            "HealRatioBase": 0,
-            "PhysicalAddedRatio": 0,
-            "FireAddedRatio": 0,
-            "IceAddedRatio": 1,
-            "ThunderAddedRatio": 0,
-            "WindAddedRatio": 0,
-            "QuantumAddedRatio": 0,
-            "ImaginaryAddedRatio": 0,
-            "SPRatioBase": 1
+            "BreakDamageAddedRatioBase": 0
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 9.6
     },
     "1105": {
         "main": {
@@ -1029,25 +821,9 @@
             "CriticalDamageBase": 0,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0.5,
-            "BreakDamageAddedRatioBase": 0,
-            "HealRatioBase": 1,
-            "PhysicalAddedRatio": 0,
-            "FireAddedRatio": 0,
-            "IceAddedRatio": 0,
-            "ThunderAddedRatio": 0,
-            "WindAddedRatio": 0,
-            "QuantumAddedRatio": 0,
-            "ImaginaryAddedRatio": 0,
-            "SPRatioBase": 0.75
+            "BreakDamageAddedRatioBase": 0
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 9.299999999999999
     },
     "1106": {
         "main": {
@@ -1104,25 +880,9 @@
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 1,
             "StatusResistanceBase": 0,
-            "BreakDamageAddedRatioBase": 0,
-            "HealRatioBase": 0,
-            "PhysicalAddedRatio": 0,
-            "FireAddedRatio": 0,
-            "IceAddedRatio": 1,
-            "ThunderAddedRatio": 0,
-            "WindAddedRatio": 0,
-            "QuantumAddedRatio": 0,
-            "ImaginaryAddedRatio": 0,
-            "SPRatioBase": 0.5
+            "BreakDamageAddedRatioBase": 0
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 10.799999999999999
     },
     "1107": {
         "main": {
@@ -1179,25 +939,9 @@
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
-            "BreakDamageAddedRatioBase": 0,
-            "HealRatioBase": 0,
-            "PhysicalAddedRatio": 1,
-            "FireAddedRatio": 0,
-            "IceAddedRatio": 0,
-            "ThunderAddedRatio": 0,
-            "WindAddedRatio": 0,
-            "QuantumAddedRatio": 0,
-            "ImaginaryAddedRatio": 0,
-            "SPRatioBase": 0.5
+            "BreakDamageAddedRatioBase": 0
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 10.2
     },
     "1108": {
         "main": {
@@ -1254,25 +998,9 @@
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 1,
             "StatusResistanceBase": 0,
-            "BreakDamageAddedRatioBase": 0,
-            "HealRatioBase": 0,
-            "PhysicalAddedRatio": 0,
-            "FireAddedRatio": 0,
-            "IceAddedRatio": 0,
-            "ThunderAddedRatio": 0,
-            "WindAddedRatio": 1,
-            "QuantumAddedRatio": 0,
-            "ImaginaryAddedRatio": 0,
-            "SPRatioBase": 0.5
+            "BreakDamageAddedRatioBase": 0
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 10.799999999999999
     },
     "1109": {
         "main": {
@@ -1329,25 +1057,9 @@
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
-            "BreakDamageAddedRatioBase": 0,
-            "HealRatioBase": 0,
-            "PhysicalAddedRatio": 0,
-            "FireAddedRatio": 1,
-            "IceAddedRatio": 0,
-            "ThunderAddedRatio": 0,
-            "WindAddedRatio": 0,
-            "QuantumAddedRatio": 0,
-            "ImaginaryAddedRatio": 0,
-            "SPRatioBase": 0.5
+            "BreakDamageAddedRatioBase": 0
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 10.2
     },
     "1201": {
         "main": {
@@ -1404,25 +1116,9 @@
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
-            "BreakDamageAddedRatioBase": 0,
-            "HealRatioBase": 0,
-            "PhysicalAddedRatio": 0,
-            "FireAddedRatio": 0,
-            "IceAddedRatio": 0,
-            "ThunderAddedRatio": 0,
-            "WindAddedRatio": 0,
-            "QuantumAddedRatio": 1,
-            "ImaginaryAddedRatio": 0,
-            "SPRatioBase": 0.5
+            "BreakDamageAddedRatioBase": 0
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 10.2
     },
     "1202": {
         "main": {
@@ -1479,25 +1175,9 @@
             "CriticalDamageBase": 0,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
-            "BreakDamageAddedRatioBase": 0,
-            "HealRatioBase": 0,
-            "PhysicalAddedRatio": 0,
-            "FireAddedRatio": 0,
-            "IceAddedRatio": 0,
-            "ThunderAddedRatio": 0,
-            "WindAddedRatio": 0,
-            "QuantumAddedRatio": 0,
-            "ImaginaryAddedRatio": 0,
-            "SPRatioBase": 1
+            "BreakDamageAddedRatioBase": 0
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 9.36
     },
     "1203": {
         "main": {
@@ -1554,25 +1234,9 @@
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
-            "BreakDamageAddedRatioBase": 0,
-            "HealRatioBase": 0,
-            "PhysicalAddedRatio": 0,
-            "FireAddedRatio": 0,
-            "IceAddedRatio": 1,
-            "ThunderAddedRatio": 0,
-            "WindAddedRatio": 0,
-            "QuantumAddedRatio": 0,
-            "ImaginaryAddedRatio": 0,
-            "SPRatioBase": 0.5
+            "BreakDamageAddedRatioBase": 0
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 10.2
     },
     "1204": {
         "main": {
@@ -1629,25 +1293,9 @@
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
-            "BreakDamageAddedRatioBase": 0,
-            "HealRatioBase": 0,
-            "PhysicalAddedRatio": 0,
-            "FireAddedRatio": 0,
-            "IceAddedRatio": 0,
-            "ThunderAddedRatio": 1,
-            "WindAddedRatio": 0,
-            "QuantumAddedRatio": 0,
-            "ImaginaryAddedRatio": 0,
-            "SPRatioBase": 0.5
+            "BreakDamageAddedRatioBase": 0
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 10.5
     },
     "1206": {
         "main": {
@@ -1704,25 +1352,9 @@
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
-            "BreakDamageAddedRatioBase": 0.5,
-            "HealRatioBase": 0,
-            "PhysicalAddedRatio": 1,
-            "FireAddedRatio": 0,
-            "IceAddedRatio": 0,
-            "ThunderAddedRatio": 0,
-            "WindAddedRatio": 0,
-            "QuantumAddedRatio": 0,
-            "ImaginaryAddedRatio": 0,
-            "SPRatioBase": 0.5
+            "BreakDamageAddedRatioBase": 0.5
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 10.2
     },
     "1209": {
         "main": {
@@ -1779,25 +1411,9 @@
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
-            "BreakDamageAddedRatioBase": 0,
-            "HealRatioBase": 0,
-            "PhysicalAddedRatio": 0,
-            "FireAddedRatio": 0,
-            "IceAddedRatio": 1,
-            "ThunderAddedRatio": 0,
-            "WindAddedRatio": 0,
-            "QuantumAddedRatio": 0,
-            "ImaginaryAddedRatio": 0,
-            "SPRatioBase": 0.75
+            "BreakDamageAddedRatioBase": 0
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 10.2
     },
     "1211": {
         "main": {
@@ -1854,25 +1470,9 @@
             "CriticalDamageBase": 0,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0.5,
-            "BreakDamageAddedRatioBase": 0,
-            "HealRatioBase": 1,
-            "PhysicalAddedRatio": 0,
-            "FireAddedRatio": 0,
-            "IceAddedRatio": 0,
-            "ThunderAddedRatio": 0,
-            "WindAddedRatio": 0,
-            "QuantumAddedRatio": 0,
-            "ImaginaryAddedRatio": 0,
-            "SPRatioBase": 1
+            "BreakDamageAddedRatioBase": 0
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 9.299999999999999
     },
     "8001": {
         "main": {
@@ -1929,25 +1529,9 @@
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
-            "BreakDamageAddedRatioBase": 0,
-            "HealRatioBase": 0,
-            "PhysicalAddedRatio": 1,
-            "FireAddedRatio": 0,
-            "IceAddedRatio": 0,
-            "ThunderAddedRatio": 0,
-            "WindAddedRatio": 0,
-            "QuantumAddedRatio": 0,
-            "ImaginaryAddedRatio": 0,
-            "SPRatioBase": 0.5
+            "BreakDamageAddedRatioBase": 0
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 10.2
     },
     "8002": {
         "main": {
@@ -2004,25 +1588,9 @@
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
-            "BreakDamageAddedRatioBase": 0,
-            "HealRatioBase": 0,
-            "PhysicalAddedRatio": 1,
-            "FireAddedRatio": 0,
-            "IceAddedRatio": 0,
-            "ThunderAddedRatio": 0,
-            "WindAddedRatio": 0,
-            "QuantumAddedRatio": 0,
-            "ImaginaryAddedRatio": 0,
-            "SPRatioBase": 0.5
+            "BreakDamageAddedRatioBase": 0
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 10.2
     },
     "8003": {
         "main": {
@@ -2079,25 +1647,9 @@
             "CriticalDamageBase": 0,
             "StatusProbabilityBase": 1,
             "StatusResistanceBase": 0.5,
-            "BreakDamageAddedRatioBase": 0,
-            "HealRatioBase": 0,
-            "PhysicalAddedRatio": 0,
-            "FireAddedRatio": 0,
-            "IceAddedRatio": 0,
-            "ThunderAddedRatio": 0,
-            "WindAddedRatio": 0,
-            "QuantumAddedRatio": 0,
-            "ImaginaryAddedRatio": 0,
-            "SPRatioBase": 0
+            "BreakDamageAddedRatioBase": 0
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 10.2
     },
     "8004": {
         "main": {
@@ -2154,24 +1706,8 @@
             "CriticalDamageBase": 0,
             "StatusProbabilityBase": 1,
             "StatusResistanceBase": 0.5,
-            "BreakDamageAddedRatioBase": 0,
-            "HealRatioBase": 0,
-            "PhysicalAddedRatio": 0,
-            "FireAddedRatio": 0,
-            "IceAddedRatio": 0,
-            "ThunderAddedRatio": 0,
-            "WindAddedRatio": 0,
-            "QuantumAddedRatio": 0,
-            "ImaginaryAddedRatio": 0,
-            "SPRatioBase": 0
+            "BreakDamageAddedRatioBase": 0
         },
-        "max": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0
-        }
+        "max": 10.2
     }
 }
