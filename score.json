@@ -56,7 +56,7 @@
             "StatusResistanceBase": 0.5,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 9.6
+        "max": 9.3
     },
     "1002": {
         "main": {
@@ -115,7 +115,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.2
+        "max": 9.835
     },
     "1003": {
         "main": {
@@ -174,7 +174,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0.5
         },
-        "max": 10.2
+        "max": 10.05
     },
     "1004": {
         "main": {
@@ -233,7 +233,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.8
+        "max": 10.75
     },
     "1005": {
         "main": {
@@ -292,7 +292,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.8
+        "max": 10.75
     },
     "1006": {
         "main": {
@@ -351,7 +351,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.8
+        "max": 10.7
     },
     "1008": {
         "main": {
@@ -410,7 +410,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.2
+        "max": 9.94
     },
     "1009": {
         "main": {
@@ -469,7 +469,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0.75
         },
-        "max": 9.27
+        "max": 8.97
     },
     "1013": {
         "main": {
@@ -528,7 +528,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.2
+        "max": 9.94
     },
     "1101": {
         "main": {
@@ -587,7 +587,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 9.57
+        "max": 9.17
     },
     "1102": {
         "main": {
@@ -646,7 +646,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.5
+        "max": 10.085
     },
     "1103": {
         "main": {
@@ -705,7 +705,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.2
+        "max": 9.94
     },
     "1104": {
         "main": {
@@ -764,7 +764,7 @@
             "StatusResistanceBase": 0.5,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 9.6
+        "max": 9.3
     },
     "1105": {
         "main": {
@@ -823,7 +823,7 @@
             "StatusResistanceBase": 0.5,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 9.3
+        "max": 8.43
     },
     "1106": {
         "main": {
@@ -882,7 +882,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.8
+        "max": 10.7
     },
     "1107": {
         "main": {
@@ -941,7 +941,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.2
+        "max": 9.94
     },
     "1108": {
         "main": {
@@ -1000,7 +1000,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.8
+        "max": 10.75
     },
     "1109": {
         "main": {
@@ -1059,7 +1059,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.2
+        "max": 9.835
     },
     "1201": {
         "main": {
@@ -1118,7 +1118,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.2
+        "max": 9.94
     },
     "1202": {
         "main": {
@@ -1177,7 +1177,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 9.36
+        "max": 9.19
     },
     "1203": {
         "main": {
@@ -1236,7 +1236,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.2
+        "max": 9.99
     },
     "1204": {
         "main": {
@@ -1295,7 +1295,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.5
+        "max": 10.24
     },
     "1206": {
         "main": {
@@ -1354,7 +1354,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0.5
         },
-        "max": 10.2
+        "max": 10.05
     },
     "1209": {
         "main": {
@@ -1413,7 +1413,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.2
+        "max": 9.94
     },
     "1211": {
         "main": {
@@ -1472,7 +1472,7 @@
             "StatusResistanceBase": 0.5,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 9.3
+        "max": 8.43
     },
     "8001": {
         "main": {
@@ -1531,7 +1531,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.2
+        "max": 9.94
     },
     "8002": {
         "main": {
@@ -1590,7 +1590,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.2
+        "max": 9.94
     },
     "8003": {
         "main": {
@@ -1649,7 +1649,7 @@
             "StatusResistanceBase": 0.5,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.2
+        "max": 10.1
     },
     "8004": {
         "main": {
@@ -1708,6 +1708,6 @@
             "StatusResistanceBase": 0.5,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.2
+        "max": 10.1
     }
 }
