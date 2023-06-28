@@ -8,22 +8,22 @@
                 "AttackDelta": 1
             },
             "3": {
-                "HPAddedRatio": 0,
+                "HPAddedRatio": 0.5,
                 "AttackAddedRatio": 0,
-                "DefenceAddedRatio": 0.8,
+                "DefenceAddedRatio": 1,
                 "CriticalChanceBase": 0,
                 "CriticalDamageBase": 0,
                 "HealRatioBase": 0,
                 "StatusProbabilityBase": 1
             },
             "4": {
-                "HPAddedRatio": 0,
+                "HPAddedRatio": 0.5,
                 "AttackAddedRatio": 0,
                 "DefenceAddedRatio": 1,
-                "SpeedDelta": 0
+                "SpeedDelta": 0.8
             },
             "5": {
-                "HPAddedRatio": 0,
+                "HPAddedRatio": 0.5,
                 "AttackAddedRatio": 0,
                 "DefenceAddedRatio": 1,
                 "PhysicalAddedRatio": 0,
@@ -36,16 +36,16 @@
             },
             "6": {
                 "BreakDamageAddedRatioBase": 0,
-                "SPRatioBase": 0,
-                "HPAddedRatio": 0,
+                "SPRatioBase": 1,
+                "HPAddedRatio": 0.5,
                 "AttackAddedRatio": 0,
                 "DefenceAddedRatio": 1
             }
         },
         "weight": {
-            "HPDelta": 0.15,
+            "HPDelta": 0.2,
             "AttackDelta": 0,
-            "DefenceDelta": 0.3,
+            "DefenceDelta": 0.5,
             "HPAddedRatio": 0.5,
             "AttackAddedRatio": 0,
             "DefenceAddedRatio": 1,
@@ -95,7 +95,7 @@
             },
             "6": {
                 "BreakDamageAddedRatioBase": 0,
-                "SPRatioBase": 0,
+                "SPRatioBase": 0.5,
                 "HPAddedRatio": 0,
                 "AttackAddedRatio": 1,
                 "DefenceAddedRatio": 0
@@ -103,19 +103,19 @@
         },
         "weight": {
             "HPDelta": 0,
-            "AttackDelta": 0.225,
+            "AttackDelta": 0.3,
             "DefenceDelta": 0,
             "HPAddedRatio": 0,
-            "AttackAddedRatio": 0.75,
+            "AttackAddedRatio": 0.8,
             "DefenceAddedRatio": 0,
-            "SpeedDelta": 0.75,
+            "SpeedDelta": 1,
             "CriticalChanceBase": 1,
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 9.835
+        "max": 10.18
     },
     "1003": {
         "main": {
@@ -138,7 +138,7 @@
                 "HPAddedRatio": 0,
                 "AttackAddedRatio": 1,
                 "DefenceAddedRatio": 0,
-                "SpeedDelta": 0
+                "SpeedDelta": 0.8
             },
             "5": {
                 "HPAddedRatio": 0,
@@ -153,7 +153,7 @@
                 "ImaginaryAddedRatio": 0
             },
             "6": {
-                "BreakDamageAddedRatioBase": 0,
+                "BreakDamageAddedRatioBase": 1,
                 "SPRatioBase": 1,
                 "HPAddedRatio": 0,
                 "AttackAddedRatio": 0.8,
@@ -162,19 +162,19 @@
         },
         "weight": {
             "HPDelta": 0,
-            "AttackDelta": 0.225,
+            "AttackDelta": 0.3,
             "DefenceDelta": 0,
             "HPAddedRatio": 0,
-            "AttackAddedRatio": 0.75,
+            "AttackAddedRatio": 0.8,
             "DefenceAddedRatio": 0,
-            "SpeedDelta": 0.75,
+            "SpeedDelta": 0.8,
             "CriticalChanceBase": 1,
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0.5
         },
-        "max": 10.05
+        "max": 10.16
     },
     "1004": {
         "main": {
@@ -191,13 +191,13 @@
                 "CriticalChanceBase": 1,
                 "CriticalDamageBase": 0.9,
                 "HealRatioBase": 0,
-                "StatusProbabilityBase": 0
+                "StatusProbabilityBase": 1
             },
             "4": {
                 "HPAddedRatio": 0,
                 "AttackAddedRatio": 1,
                 "DefenceAddedRatio": 0,
-                "SpeedDelta": 0
+                "SpeedDelta": 1
             },
             "5": {
                 "HPAddedRatio": 0,
@@ -221,10 +221,10 @@
         },
         "weight": {
             "HPDelta": 0,
-            "AttackDelta": 0.225,
+            "AttackDelta": 0.3,
             "DefenceDelta": 0,
             "HPAddedRatio": 0,
-            "AttackAddedRatio": 0.75,
+            "AttackAddedRatio": 0.8,
             "DefenceAddedRatio": 0,
             "SpeedDelta": 1,
             "CriticalChanceBase": 1,
@@ -233,7 +233,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.75
+        "max": 10.76
     },
     "1005": {
         "main": {
@@ -247,10 +247,10 @@
                 "HPAddedRatio": 0,
                 "AttackAddedRatio": 1,
                 "DefenceAddedRatio": 0,
-                "CriticalChanceBase": 0,
-                "CriticalDamageBase": 0,
+                "CriticalChanceBase": 0.8,
+                "CriticalDamageBase": 0.8,
                 "HealRatioBase": 0,
-                "StatusProbabilityBase": 0
+                "StatusProbabilityBase": 1
             },
             "4": {
                 "HPAddedRatio": 0,
@@ -272,7 +272,7 @@
             },
             "6": {
                 "BreakDamageAddedRatioBase": 1,
-                "SPRatioBase": 0,
+                "SPRatioBase": 0.5,
                 "HPAddedRatio": 0,
                 "AttackAddedRatio": 0.8,
                 "DefenceAddedRatio": 0
@@ -280,10 +280,10 @@
         },
         "weight": {
             "HPDelta": 0,
-            "AttackDelta": 0.225,
+            "AttackDelta": 0.3,
             "DefenceDelta": 0,
             "HPAddedRatio": 0,
-            "AttackAddedRatio": 0.75,
+            "AttackAddedRatio": 0.8,
             "DefenceAddedRatio": 0,
             "SpeedDelta": 1,
             "CriticalChanceBase": 1,
@@ -292,7 +292,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.75
+        "max": 10.76
     },
     "1006": {
         "main": {
@@ -309,11 +309,11 @@
                 "CriticalChanceBase": 1,
                 "CriticalDamageBase": 0.9,
                 "HealRatioBase": 0,
-                "StatusProbabilityBase": 0
+                "StatusProbabilityBase": 1
             },
             "4": {
                 "HPAddedRatio": 0,
-                "AttackAddedRatio": 0,
+                "AttackAddedRatio": 0.8,
                 "DefenceAddedRatio": 0,
                 "SpeedDelta": 1
             },
@@ -333,16 +333,16 @@
                 "BreakDamageAddedRatioBase": 0,
                 "SPRatioBase": 1,
                 "HPAddedRatio": 0,
-                "AttackAddedRatio": 0,
+                "AttackAddedRatio": 0.5,
                 "DefenceAddedRatio": 0
             }
         },
         "weight": {
             "HPDelta": 0,
-            "AttackDelta": 0.225,
+            "AttackDelta": 0.3,
             "DefenceDelta": 0,
             "HPAddedRatio": 0,
-            "AttackAddedRatio": 0.75,
+            "AttackAddedRatio": 0.8,
             "DefenceAddedRatio": 0,
             "SpeedDelta": 1,
             "CriticalChanceBase": 1,
@@ -351,7 +351,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.7
+        "max": 10.72
     },
     "1008": {
         "main": {
@@ -374,7 +374,7 @@
                 "HPAddedRatio": 0,
                 "AttackAddedRatio": 1,
                 "DefenceAddedRatio": 0,
-                "SpeedDelta": 0
+                "SpeedDelta": 0.8
             },
             "5": {
                 "HPAddedRatio": 0,
@@ -390,27 +390,27 @@
             },
             "6": {
                 "BreakDamageAddedRatioBase": 1,
-                "SPRatioBase": 0,
+                "SPRatioBase": 0.5,
                 "HPAddedRatio": 0,
-                "AttackAddedRatio": 0.8,
+                "AttackAddedRatio": 1,
                 "DefenceAddedRatio": 0
             }
         },
         "weight": {
             "HPDelta": 0,
-            "AttackDelta": 0.225,
+            "AttackDelta": 0.3,
             "DefenceDelta": 0,
             "HPAddedRatio": 0,
-            "AttackAddedRatio": 0.75,
+            "AttackAddedRatio": 0.8,
             "DefenceAddedRatio": 0,
-            "SpeedDelta": 0.75,
+            "SpeedDelta": 0.8,
             "CriticalChanceBase": 1,
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 9.94
+        "max": 10.08
     },
     "1009": {
         "main": {
@@ -433,7 +433,7 @@
                 "HPAddedRatio": 0,
                 "AttackAddedRatio": 1,
                 "DefenceAddedRatio": 0,
-                "SpeedDelta": 0
+                "SpeedDelta": 1
             },
             "5": {
                 "HPAddedRatio": 0,
@@ -449,7 +449,7 @@
             },
             "6": {
                 "BreakDamageAddedRatioBase": 1,
-                "SPRatioBase": 0,
+                "SPRatioBase": 1,
                 "HPAddedRatio": 0,
                 "AttackAddedRatio": 0.8,
                 "DefenceAddedRatio": 0
@@ -457,19 +457,19 @@
         },
         "weight": {
             "HPDelta": 0,
-            "AttackDelta": 0.225,
+            "AttackDelta": 0.3,
             "DefenceDelta": 0,
             "HPAddedRatio": 0,
-            "AttackAddedRatio": 0.75,
+            "AttackAddedRatio": 0.8,
             "DefenceAddedRatio": 0,
             "SpeedDelta": 1,
             "CriticalChanceBase": 0,
             "CriticalDamageBase": 0,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
-            "BreakDamageAddedRatioBase": 0.75
+            "BreakDamageAddedRatioBase": 0.8
         },
-        "max": 8.97
+        "max": 9.16
     },
     "1013": {
         "main": {
@@ -492,7 +492,7 @@
                 "HPAddedRatio": 0,
                 "AttackAddedRatio": 1,
                 "DefenceAddedRatio": 0,
-                "SpeedDelta": 0
+                "SpeedDelta": 0.8
             },
             "5": {
                 "HPAddedRatio": 0,
@@ -516,19 +516,19 @@
         },
         "weight": {
             "HPDelta": 0,
-            "AttackDelta": 0.225,
+            "AttackDelta": 0.3,
             "DefenceDelta": 0,
             "HPAddedRatio": 0,
-            "AttackAddedRatio": 0.75,
+            "AttackAddedRatio": 0.8,
             "DefenceAddedRatio": 0,
-            "SpeedDelta": 0.75,
+            "SpeedDelta": 0.8,
             "CriticalChanceBase": 1,
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 9.94
+        "max": 10.08
     },
     "1101": {
         "main": {
@@ -542,14 +542,14 @@
                 "HPAddedRatio": 0,
                 "AttackAddedRatio": 0.8,
                 "DefenceAddedRatio": 0,
-                "CriticalChanceBase": 0.9,
+                "CriticalChanceBase": 0,
                 "CriticalDamageBase": 1,
                 "HealRatioBase": 0,
                 "StatusProbabilityBase": 0
             },
             "4": {
                 "HPAddedRatio": 0,
-                "AttackAddedRatio": 0,
+                "AttackAddedRatio": 0.8,
                 "DefenceAddedRatio": 0,
                 "SpeedDelta": 1
             },
@@ -569,16 +569,16 @@
                 "BreakDamageAddedRatioBase": 0,
                 "SPRatioBase": 1,
                 "HPAddedRatio": 0,
-                "AttackAddedRatio": 0,
+                "AttackAddedRatio": 0.8,
                 "DefenceAddedRatio": 0
             }
         },
         "weight": {
             "HPDelta": 0,
-            "AttackDelta": 0.225,
+            "AttackDelta": 0.3,
             "DefenceDelta": 0,
             "HPAddedRatio": 0,
-            "AttackAddedRatio": 0.75,
+            "AttackAddedRatio": 0.8,
             "DefenceAddedRatio": 0,
             "SpeedDelta": 1,
             "CriticalChanceBase": 0,
@@ -587,7 +587,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 9.17
+        "max": 9.32
     },
     "1102": {
         "main": {
@@ -626,7 +626,7 @@
             },
             "6": {
                 "BreakDamageAddedRatioBase": 0,
-                "SPRatioBase": 0,
+                "SPRatioBase": 0.5,
                 "HPAddedRatio": 0,
                 "AttackAddedRatio": 1,
                 "DefenceAddedRatio": 0
@@ -634,10 +634,10 @@
         },
         "weight": {
             "HPDelta": 0,
-            "AttackDelta": 0.225,
+            "AttackDelta": 0.3,
             "DefenceDelta": 0,
             "HPAddedRatio": 0,
-            "AttackAddedRatio": 0.75,
+            "AttackAddedRatio": 0.8,
             "DefenceAddedRatio": 0,
             "SpeedDelta": 1,
             "CriticalChanceBase": 1,
@@ -646,7 +646,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.085
+        "max": 10.18
     },
     "1103": {
         "main": {
@@ -667,7 +667,7 @@
             },
             "4": {
                 "HPAddedRatio": 0,
-                "AttackAddedRatio": 0,
+                "AttackAddedRatio": 0.8,
                 "DefenceAddedRatio": 0,
                 "SpeedDelta": 1
             },
@@ -685,27 +685,27 @@
             },
             "6": {
                 "BreakDamageAddedRatioBase": 1,
-                "SPRatioBase": 0,
+                "SPRatioBase": 0.5,
                 "HPAddedRatio": 0,
-                "AttackAddedRatio": 0,
+                "AttackAddedRatio": 1,
                 "DefenceAddedRatio": 0
             }
         },
         "weight": {
             "HPDelta": 0,
-            "AttackDelta": 0.225,
+            "AttackDelta": 0.3,
             "DefenceDelta": 0,
             "HPAddedRatio": 0,
-            "AttackAddedRatio": 0.75,
+            "AttackAddedRatio": 0.8,
             "DefenceAddedRatio": 0,
-            "SpeedDelta": 0.75,
+            "SpeedDelta": 0.8,
             "CriticalChanceBase": 1,
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 9.94
+        "max": 10.08
     },
     "1104": {
         "main": {
@@ -716,22 +716,22 @@
                 "AttackDelta": 1
             },
             "3": {
-                "HPAddedRatio": 0,
+                "HPAddedRatio": 0.5,
                 "AttackAddedRatio": 0,
                 "DefenceAddedRatio": 1,
                 "CriticalChanceBase": 0,
                 "CriticalDamageBase": 0,
                 "HealRatioBase": 0,
-                "StatusProbabilityBase": 0
+                "StatusProbabilityBase": 0.5
             },
             "4": {
-                "HPAddedRatio": 0,
+                "HPAddedRatio": 0.5,
                 "AttackAddedRatio": 0,
                 "DefenceAddedRatio": 1,
-                "SpeedDelta": 0
+                "SpeedDelta": 0.8
             },
             "5": {
-                "HPAddedRatio": 0,
+                "HPAddedRatio": 0.5,
                 "AttackAddedRatio": 0,
                 "DefenceAddedRatio": 1,
                 "PhysicalAddedRatio": 0,
@@ -745,15 +745,15 @@
             "6": {
                 "BreakDamageAddedRatioBase": 0,
                 "SPRatioBase": 1,
-                "HPAddedRatio": 0,
+                "HPAddedRatio": 0.5,
                 "AttackAddedRatio": 0,
-                "DefenceAddedRatio": 0.8
+                "DefenceAddedRatio": 1
             }
         },
         "weight": {
-            "HPDelta": 0.15,
+            "HPDelta": 0.2,
             "AttackDelta": 0,
-            "DefenceDelta": 0.3,
+            "DefenceDelta": 0.5,
             "HPAddedRatio": 0.5,
             "AttackAddedRatio": 0,
             "DefenceAddedRatio": 1,
@@ -784,7 +784,7 @@
                 "StatusProbabilityBase": 0
             },
             "4": {
-                "HPAddedRatio": 0.8,
+                "HPAddedRatio": 1,
                 "AttackAddedRatio": 0,
                 "DefenceAddedRatio": 0,
                 "SpeedDelta": 1
@@ -792,7 +792,7 @@
             "5": {
                 "HPAddedRatio": 1,
                 "AttackAddedRatio": 0,
-                "DefenceAddedRatio": 0,
+                "DefenceAddedRatio": 0.5,
                 "PhysicalAddedRatio": 0,
                 "FireAddedRatio": 0,
                 "IceAddedRatio": 0,
@@ -803,27 +803,27 @@
             },
             "6": {
                 "BreakDamageAddedRatioBase": 0,
-                "SPRatioBase": 0,
+                "SPRatioBase": 0.5,
                 "HPAddedRatio": 1,
                 "AttackAddedRatio": 0,
                 "DefenceAddedRatio": 0
             }
         },
         "weight": {
-            "HPDelta": 0.3,
+            "HPDelta": 0.5,
             "AttackDelta": 0,
-            "DefenceDelta": 0.15,
+            "DefenceDelta": 0.2,
             "HPAddedRatio": 1,
             "AttackAddedRatio": 0,
             "DefenceAddedRatio": 0.5,
-            "SpeedDelta": 0.75,
+            "SpeedDelta": 0.8,
             "CriticalChanceBase": 0,
             "CriticalDamageBase": 0,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0.5,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 8.43
+        "max": 8.46
     },
     "1106": {
         "main": {
@@ -840,7 +840,7 @@
                 "CriticalChanceBase": 1,
                 "CriticalDamageBase": 0.9,
                 "HealRatioBase": 0,
-                "StatusProbabilityBase": 0
+                "StatusProbabilityBase": 1
             },
             "4": {
                 "HPAddedRatio": 0,
@@ -862,7 +862,7 @@
             },
             "6": {
                 "BreakDamageAddedRatioBase": 0,
-                "SPRatioBase": 0,
+                "SPRatioBase": 0.5,
                 "HPAddedRatio": 0,
                 "AttackAddedRatio": 1,
                 "DefenceAddedRatio": 0
@@ -870,10 +870,10 @@
         },
         "weight": {
             "HPDelta": 0,
-            "AttackDelta": 0.225,
+            "AttackDelta": 0.3,
             "DefenceDelta": 0,
             "HPAddedRatio": 0,
-            "AttackAddedRatio": 0.75,
+            "AttackAddedRatio": 0.8,
             "DefenceAddedRatio": 0,
             "SpeedDelta": 1,
             "CriticalChanceBase": 1,
@@ -882,7 +882,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.7
+        "max": 10.72
     },
     "1107": {
         "main": {
@@ -905,7 +905,7 @@
                 "HPAddedRatio": 0,
                 "AttackAddedRatio": 1,
                 "DefenceAddedRatio": 0,
-                "SpeedDelta": 0
+                "SpeedDelta": 0.8
             },
             "5": {
                 "HPAddedRatio": 0,
@@ -921,27 +921,27 @@
             },
             "6": {
                 "BreakDamageAddedRatioBase": 1,
-                "SPRatioBase": 0,
+                "SPRatioBase": 0.5,
                 "HPAddedRatio": 0,
-                "AttackAddedRatio": 0.8,
+                "AttackAddedRatio": 1,
                 "DefenceAddedRatio": 0
             }
         },
         "weight": {
             "HPDelta": 0,
-            "AttackDelta": 0.225,
+            "AttackDelta": 0.3,
             "DefenceDelta": 0,
             "HPAddedRatio": 0,
-            "AttackAddedRatio": 0.75,
+            "AttackAddedRatio": 0.8,
             "DefenceAddedRatio": 0,
-            "SpeedDelta": 0.75,
+            "SpeedDelta": 0.8,
             "CriticalChanceBase": 1,
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 9.94
+        "max": 10.08
     },
     "1108": {
         "main": {
@@ -955,10 +955,10 @@
                 "HPAddedRatio": 0,
                 "AttackAddedRatio": 1,
                 "DefenceAddedRatio": 0,
-                "CriticalChanceBase": 0,
-                "CriticalDamageBase": 0,
+                "CriticalChanceBase": 0.8,
+                "CriticalDamageBase": 0.8,
                 "HealRatioBase": 0,
-                "StatusProbabilityBase": 0
+                "StatusProbabilityBase": 1
             },
             "4": {
                 "HPAddedRatio": 0,
@@ -988,10 +988,10 @@
         },
         "weight": {
             "HPDelta": 0,
-            "AttackDelta": 0.225,
+            "AttackDelta": 0.3,
             "DefenceDelta": 0,
             "HPAddedRatio": 0,
-            "AttackAddedRatio": 0.75,
+            "AttackAddedRatio": 0.8,
             "DefenceAddedRatio": 0,
             "SpeedDelta": 1,
             "CriticalChanceBase": 1,
@@ -1000,7 +1000,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.75
+        "max": 10.76
     },
     "1109": {
         "main": {
@@ -1038,8 +1038,8 @@
                 "ImaginaryAddedRatio": 0
             },
             "6": {
-                "BreakDamageAddedRatioBase": 0,
-                "SPRatioBase": 0,
+                "BreakDamageAddedRatioBase": 0.5,
+                "SPRatioBase": 0.5,
                 "HPAddedRatio": 0,
                 "AttackAddedRatio": 1,
                 "DefenceAddedRatio": 0
@@ -1047,19 +1047,19 @@
         },
         "weight": {
             "HPDelta": 0,
-            "AttackDelta": 0.225,
+            "AttackDelta": 0.3,
             "DefenceDelta": 0,
             "HPAddedRatio": 0,
-            "AttackAddedRatio": 0.75,
+            "AttackAddedRatio": 0.8,
             "DefenceAddedRatio": 0,
-            "SpeedDelta": 0.75,
+            "SpeedDelta": 0.8,
             "CriticalChanceBase": 1,
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 9.835
+        "max": 9.98
     },
     "1201": {
         "main": {
@@ -1082,7 +1082,7 @@
                 "HPAddedRatio": 0,
                 "AttackAddedRatio": 1,
                 "DefenceAddedRatio": 0,
-                "SpeedDelta": 0
+                "SpeedDelta": 0.8
             },
             "5": {
                 "HPAddedRatio": 0,
@@ -1106,19 +1106,19 @@
         },
         "weight": {
             "HPDelta": 0,
-            "AttackDelta": 0.225,
+            "AttackDelta": 0.3,
             "DefenceDelta": 0,
             "HPAddedRatio": 0,
-            "AttackAddedRatio": 0.75,
+            "AttackAddedRatio": 0.8,
             "DefenceAddedRatio": 0,
-            "SpeedDelta": 0.75,
+            "SpeedDelta": 0.8,
             "CriticalChanceBase": 1,
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 9.94
+        "max": 10.08
     },
     "1202": {
         "main": {
@@ -1129,17 +1129,17 @@
                 "AttackDelta": 1
             },
             "3": {
-                "HPAddedRatio": 0,
-                "AttackAddedRatio": 0.8,
+                "HPAddedRatio": 0.5,
+                "AttackAddedRatio": 1,
                 "DefenceAddedRatio": 0,
-                "CriticalChanceBase": 1,
-                "CriticalDamageBase": 0.9,
+                "CriticalChanceBase": 0.5,
+                "CriticalDamageBase": 0.5,
                 "HealRatioBase": 0,
                 "StatusProbabilityBase": 0
             },
             "4": {
                 "HPAddedRatio": 0,
-                "AttackAddedRatio": 0,
+                "AttackAddedRatio": 1,
                 "DefenceAddedRatio": 0,
                 "SpeedDelta": 1
             },
@@ -1159,13 +1159,13 @@
                 "BreakDamageAddedRatioBase": 0,
                 "SPRatioBase": 1,
                 "HPAddedRatio": 0,
-                "AttackAddedRatio": 0,
+                "AttackAddedRatio": 1,
                 "DefenceAddedRatio": 0
             }
         },
         "weight": {
-            "HPDelta": 0.15,
-            "AttackDelta": 0.3,
+            "HPDelta": 0.2,
+            "AttackDelta": 0.5,
             "DefenceDelta": 0,
             "HPAddedRatio": 0.5,
             "AttackAddedRatio": 1,
@@ -1177,7 +1177,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 9.19
+        "max": 9.28
     },
     "1203": {
         "main": {
@@ -1188,8 +1188,8 @@
                 "AttackDelta": 1
             },
             "3": {
-                "HPAddedRatio": 0,
-                "AttackAddedRatio": 0.8,
+                "HPAddedRatio": 0.8,
+                "AttackAddedRatio": 0,
                 "DefenceAddedRatio": 0,
                 "CriticalChanceBase": 0,
                 "CriticalDamageBase": 0,
@@ -1197,46 +1197,46 @@
                 "StatusProbabilityBase": 0
             },
             "4": {
-                "HPAddedRatio": 0,
-                "AttackAddedRatio": 0.8,
+                "HPAddedRatio": 1,
+                "AttackAddedRatio": 0,
                 "DefenceAddedRatio": 0,
                 "SpeedDelta": 1
             },
             "5": {
-                "HPAddedRatio": 0,
-                "AttackAddedRatio": 1,
-                "DefenceAddedRatio": 0,
+                "HPAddedRatio": 1,
+                "AttackAddedRatio": 0,
+                "DefenceAddedRatio": 0.5,
                 "PhysicalAddedRatio": 0,
                 "FireAddedRatio": 0,
                 "IceAddedRatio": 0,
                 "ThunderAddedRatio": 0,
                 "WindAddedRatio": 0,
                 "QuantumAddedRatio": 0,
-                "ImaginaryAddedRatio": 1
+                "ImaginaryAddedRatio": 0
             },
             "6": {
-                "BreakDamageAddedRatioBase": 1,
-                "SPRatioBase": 0,
-                "HPAddedRatio": 0,
-                "AttackAddedRatio": 0.8,
+                "BreakDamageAddedRatioBase": 0,
+                "SPRatioBase": 0.5,
+                "HPAddedRatio": 1,
+                "AttackAddedRatio": 0,
                 "DefenceAddedRatio": 0
             }
         },
         "weight": {
-            "HPDelta": 0,
-            "AttackDelta": 0.225,
-            "DefenceDelta": 0,
-            "HPAddedRatio": 0,
-            "AttackAddedRatio": 0.75,
-            "DefenceAddedRatio": 0,
-            "SpeedDelta": 0.75,
-            "CriticalChanceBase": 1,
-            "CriticalDamageBase": 1,
+            "HPDelta": 0.5,
+            "AttackDelta": 0,
+            "DefenceDelta": 0.2,
+            "HPAddedRatio": 1,
+            "AttackAddedRatio": 0,
+            "DefenceAddedRatio": 0.5,
+            "SpeedDelta": 0.8,
+            "CriticalChanceBase": 0,
+            "CriticalDamageBase": 0,
             "StatusProbabilityBase": 0,
-            "StatusResistanceBase": 0,
+            "StatusResistanceBase": 0.5,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 9.99
+        "max": 8.46
     },
     "1204": {
         "main": {
@@ -1259,7 +1259,7 @@
                 "HPAddedRatio": 0,
                 "AttackAddedRatio": 1,
                 "DefenceAddedRatio": 0,
-                "SpeedDelta": 0
+                "SpeedDelta": 0.8
             },
             "5": {
                 "HPAddedRatio": 0,
@@ -1283,10 +1283,10 @@
         },
         "weight": {
             "HPDelta": 0,
-            "AttackDelta": 0.225,
+            "AttackDelta": 0.3,
             "DefenceDelta": 0,
             "HPAddedRatio": 0,
-            "AttackAddedRatio": 0.75,
+            "AttackAddedRatio": 0.8,
             "DefenceAddedRatio": 0,
             "SpeedDelta": 1,
             "CriticalChanceBase": 1,
@@ -1295,7 +1295,7 @@
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.24
+        "max": 10.32
     },
     "1206": {
         "main": {
@@ -1316,7 +1316,7 @@
             },
             "4": {
                 "HPAddedRatio": 0,
-                "AttackAddedRatio": 0,
+                "AttackAddedRatio": 0.8,
                 "DefenceAddedRatio": 0,
                 "SpeedDelta": 1
             },
@@ -1334,27 +1334,86 @@
             },
             "6": {
                 "BreakDamageAddedRatioBase": 1,
-                "SPRatioBase": 0,
+                "SPRatioBase": 0.5,
                 "HPAddedRatio": 0,
-                "AttackAddedRatio": 0,
+                "AttackAddedRatio": 0.8,
                 "DefenceAddedRatio": 0
             }
         },
         "weight": {
             "HPDelta": 0,
-            "AttackDelta": 0.225,
+            "AttackDelta": 0.3,
             "DefenceDelta": 0,
             "HPAddedRatio": 0,
-            "AttackAddedRatio": 0.75,
+            "AttackAddedRatio": 0.8,
             "DefenceAddedRatio": 0,
-            "SpeedDelta": 0.75,
+            "SpeedDelta": 1,
             "CriticalChanceBase": 1,
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0.5
         },
-        "max": 10.05
+        "max": 10.36
+    },
+    "1207": {
+        "main": {
+            "1": {
+                "HPDelta": 1
+            },
+            "2": {
+                "AttackDelta": 1
+            },
+            "3": {
+                "HPAddedRatio": 0,
+                "AttackAddedRatio": 1,
+                "DefenceAddedRatio": 0,
+                "CriticalChanceBase": 1,
+                "CriticalDamageBase": 0.9,
+                "HealRatioBase": 0,
+                "StatusProbabilityBase": 0.8
+            },
+            "4": {
+                "HPAddedRatio": 0,
+                "AttackAddedRatio": 1,
+                "DefenceAddedRatio": 0,
+                "SpeedDelta": 0.8
+            },
+            "5": {
+                "HPAddedRatio": 0,
+                "AttackAddedRatio": 0.8,
+                "DefenceAddedRatio": 0,
+                "PhysicalAddedRatio": 0,
+                "FireAddedRatio": 0,
+                "IceAddedRatio": 0,
+                "ThunderAddedRatio": 0,
+                "WindAddedRatio": 0,
+                "QuantumAddedRatio": 0,
+                "ImaginaryAddedRatio": 1
+            },
+            "6": {
+                "BreakDamageAddedRatioBase": 0,
+                "SPRatioBase": 1,
+                "HPAddedRatio": 0,
+                "AttackAddedRatio": 0.8,
+                "DefenceAddedRatio": 0
+            }
+        },
+        "weight": {
+            "HPDelta": 0,
+            "AttackDelta": 0.3,
+            "DefenceDelta": 0,
+            "HPAddedRatio": 0,
+            "AttackAddedRatio": 0.8,
+            "DefenceAddedRatio": 0,
+            "SpeedDelta": 1,
+            "CriticalChanceBase": 0,
+            "CriticalDamageBase": 0,
+            "StatusProbabilityBase": 0,
+            "StatusResistanceBase": 0,
+            "BreakDamageAddedRatioBase": 0
+        },
+        "max": 8.2
     },
     "1209": {
         "main": {
@@ -1375,7 +1434,7 @@
             },
             "4": {
                 "HPAddedRatio": 0,
-                "AttackAddedRatio": 0,
+                "AttackAddedRatio": 0.8,
                 "DefenceAddedRatio": 0,
                 "SpeedDelta": 1
             },
@@ -1395,25 +1454,25 @@
                 "BreakDamageAddedRatioBase": 0,
                 "SPRatioBase": 1,
                 "HPAddedRatio": 0,
-                "AttackAddedRatio": 0,
+                "AttackAddedRatio": 0.8,
                 "DefenceAddedRatio": 0
             }
         },
         "weight": {
             "HPDelta": 0,
-            "AttackDelta": 0.225,
+            "AttackDelta": 0.3,
             "DefenceDelta": 0,
             "HPAddedRatio": 0,
-            "AttackAddedRatio": 0.75,
+            "AttackAddedRatio": 0.8,
             "DefenceAddedRatio": 0,
-            "SpeedDelta": 0.75,
+            "SpeedDelta": 1,
             "CriticalChanceBase": 1,
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 9.94
+        "max": 10.28
     },
     "1211": {
         "main": {
@@ -1433,7 +1492,7 @@
                 "StatusProbabilityBase": 0
             },
             "4": {
-                "HPAddedRatio": 0.8,
+                "HPAddedRatio": 1,
                 "AttackAddedRatio": 0,
                 "DefenceAddedRatio": 0,
                 "SpeedDelta": 1
@@ -1441,7 +1500,7 @@
             "5": {
                 "HPAddedRatio": 1,
                 "AttackAddedRatio": 0,
-                "DefenceAddedRatio": 0,
+                "DefenceAddedRatio": 0.5,
                 "PhysicalAddedRatio": 0,
                 "FireAddedRatio": 0,
                 "IceAddedRatio": 0,
@@ -1452,27 +1511,27 @@
             },
             "6": {
                 "BreakDamageAddedRatioBase": 0,
-                "SPRatioBase": 0,
+                "SPRatioBase": 0.8,
                 "HPAddedRatio": 1,
                 "AttackAddedRatio": 0,
                 "DefenceAddedRatio": 0
             }
         },
         "weight": {
-            "HPDelta": 0.3,
+            "HPDelta": 0.5,
             "AttackDelta": 0,
-            "DefenceDelta": 0.15,
+            "DefenceDelta": 0.2,
             "HPAddedRatio": 1,
             "AttackAddedRatio": 0,
             "DefenceAddedRatio": 0.5,
-            "SpeedDelta": 0.75,
+            "SpeedDelta": 0.8,
             "CriticalChanceBase": 0,
             "CriticalDamageBase": 0,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0.5,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 8.43
+        "max": 8.46
     },
     "8001": {
         "main": {
@@ -1495,7 +1554,7 @@
                 "HPAddedRatio": 0,
                 "AttackAddedRatio": 1,
                 "DefenceAddedRatio": 0,
-                "SpeedDelta": 0
+                "SpeedDelta": 0.8
             },
             "5": {
                 "HPAddedRatio": 0,
@@ -1511,27 +1570,27 @@
             },
             "6": {
                 "BreakDamageAddedRatioBase": 1,
-                "SPRatioBase": 0,
+                "SPRatioBase": 0.5,
                 "HPAddedRatio": 0,
-                "AttackAddedRatio": 0.8,
+                "AttackAddedRatio": 1,
                 "DefenceAddedRatio": 0
             }
         },
         "weight": {
             "HPDelta": 0,
-            "AttackDelta": 0.225,
+            "AttackDelta": 0.3,
             "DefenceDelta": 0,
             "HPAddedRatio": 0,
-            "AttackAddedRatio": 0.75,
+            "AttackAddedRatio": 0.8,
             "DefenceAddedRatio": 0,
-            "SpeedDelta": 0.75,
+            "SpeedDelta": 0.8,
             "CriticalChanceBase": 1,
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 9.94
+        "max": 10.08
     },
     "8002": {
         "main": {
@@ -1554,7 +1613,7 @@
                 "HPAddedRatio": 0,
                 "AttackAddedRatio": 1,
                 "DefenceAddedRatio": 0,
-                "SpeedDelta": 0
+                "SpeedDelta": 0.8
             },
             "5": {
                 "HPAddedRatio": 0,
@@ -1570,27 +1629,27 @@
             },
             "6": {
                 "BreakDamageAddedRatioBase": 1,
-                "SPRatioBase": 0,
+                "SPRatioBase": 0.5,
                 "HPAddedRatio": 0,
-                "AttackAddedRatio": 0.8,
+                "AttackAddedRatio": 1,
                 "DefenceAddedRatio": 0
             }
         },
         "weight": {
             "HPDelta": 0,
-            "AttackDelta": 0.225,
+            "AttackDelta": 0.3,
             "DefenceDelta": 0,
             "HPAddedRatio": 0,
-            "AttackAddedRatio": 0.75,
+            "AttackAddedRatio": 0.8,
             "DefenceAddedRatio": 0,
-            "SpeedDelta": 0.75,
+            "SpeedDelta": 0.8,
             "CriticalChanceBase": 1,
             "CriticalDamageBase": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 9.94
+        "max": 10.08
     },
     "8003": {
         "main": {
@@ -1601,26 +1660,26 @@
                 "AttackDelta": 1
             },
             "3": {
-                "HPAddedRatio": 0,
-                "AttackAddedRatio": 0.8,
-                "DefenceAddedRatio": 0.8,
-                "CriticalChanceBase": 1,
-                "CriticalDamageBase": 0.9,
-                "HealRatioBase": 0,
-                "StatusProbabilityBase": 0
-            },
-            "4": {
-                "HPAddedRatio": 0,
+                "HPAddedRatio": 0.5,
                 "AttackAddedRatio": 0,
                 "DefenceAddedRatio": 1,
-                "SpeedDelta": 0
+                "CriticalChanceBase": 0,
+                "CriticalDamageBase": 0,
+                "HealRatioBase": 0,
+                "StatusProbabilityBase": 1
+            },
+            "4": {
+                "HPAddedRatio": 0.5,
+                "AttackAddedRatio": 0,
+                "DefenceAddedRatio": 1,
+                "SpeedDelta": 0.8
             },
             "5": {
-                "HPAddedRatio": 0,
-                "AttackAddedRatio": 0.8,
-                "DefenceAddedRatio": 0.8,
+                "HPAddedRatio": 0.5,
+                "AttackAddedRatio": 0,
+                "DefenceAddedRatio": 1,
                 "PhysicalAddedRatio": 0,
-                "FireAddedRatio": 1,
+                "FireAddedRatio": 0,
                 "IceAddedRatio": 0,
                 "ThunderAddedRatio": 0,
                 "WindAddedRatio": 0,
@@ -1628,17 +1687,17 @@
                 "ImaginaryAddedRatio": 0
             },
             "6": {
-                "BreakDamageAddedRatioBase": 1,
+                "BreakDamageAddedRatioBase": 0,
                 "SPRatioBase": 0,
-                "HPAddedRatio": 0,
+                "HPAddedRatio": 0.5,
                 "AttackAddedRatio": 0,
-                "DefenceAddedRatio": 0.8
+                "DefenceAddedRatio": 1
             }
         },
         "weight": {
-            "HPDelta": 0.15,
+            "HPDelta": 0.2,
             "AttackDelta": 0,
-            "DefenceDelta": 0.3,
+            "DefenceDelta": 0.5,
             "HPAddedRatio": 0.5,
             "AttackAddedRatio": 0,
             "DefenceAddedRatio": 1,
@@ -1649,7 +1708,7 @@
             "StatusResistanceBase": 0.5,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.1
+        "max": 9.8
     },
     "8004": {
         "main": {
@@ -1660,26 +1719,26 @@
                 "AttackDelta": 1
             },
             "3": {
-                "HPAddedRatio": 0,
-                "AttackAddedRatio": 0.8,
-                "DefenceAddedRatio": 0.8,
-                "CriticalChanceBase": 1,
-                "CriticalDamageBase": 0.9,
-                "HealRatioBase": 0,
-                "StatusProbabilityBase": 0
-            },
-            "4": {
-                "HPAddedRatio": 0,
+                "HPAddedRatio": 0.5,
                 "AttackAddedRatio": 0,
                 "DefenceAddedRatio": 1,
-                "SpeedDelta": 0
+                "CriticalChanceBase": 0,
+                "CriticalDamageBase": 0,
+                "HealRatioBase": 0,
+                "StatusProbabilityBase": 1
+            },
+            "4": {
+                "HPAddedRatio": 0.5,
+                "AttackAddedRatio": 0,
+                "DefenceAddedRatio": 1,
+                "SpeedDelta": 0.8
             },
             "5": {
-                "HPAddedRatio": 0,
-                "AttackAddedRatio": 0.8,
-                "DefenceAddedRatio": 0.8,
+                "HPAddedRatio": 0.5,
+                "AttackAddedRatio": 0,
+                "DefenceAddedRatio": 1,
                 "PhysicalAddedRatio": 0,
-                "FireAddedRatio": 1,
+                "FireAddedRatio": 0,
                 "IceAddedRatio": 0,
                 "ThunderAddedRatio": 0,
                 "WindAddedRatio": 0,
@@ -1687,17 +1746,17 @@
                 "ImaginaryAddedRatio": 0
             },
             "6": {
-                "BreakDamageAddedRatioBase": 1,
+                "BreakDamageAddedRatioBase": 0,
                 "SPRatioBase": 0,
-                "HPAddedRatio": 0,
+                "HPAddedRatio": 0.5,
                 "AttackAddedRatio": 0,
-                "DefenceAddedRatio": 0.8
+                "DefenceAddedRatio": 1
             }
         },
         "weight": {
-            "HPDelta": 0.15,
+            "HPDelta": 0.2,
             "AttackDelta": 0,
-            "DefenceDelta": 0.3,
+            "DefenceDelta": 0.5,
             "HPAddedRatio": 0.5,
             "AttackAddedRatio": 0,
             "DefenceAddedRatio": 1,
@@ -1708,6 +1767,6 @@
             "StatusResistanceBase": 0.5,
             "BreakDamageAddedRatioBase": 0
         },
-        "max": 10.1
+        "max": 9.8
     }
 }
