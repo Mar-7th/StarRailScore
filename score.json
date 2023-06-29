@@ -212,7 +212,7 @@
                 "ImaginaryAddedRatio": 1
             },
             "6": {
-                "BreakDamageAddedRatioBase": 0,
+                "BreakDamageAddedRatioBase": 1,
                 "SPRatioBase": 1,
                 "HPAddedRatio": 0,
                 "AttackAddedRatio": 0.8,
