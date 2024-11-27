@@ -2262,5 +2262,41 @@
       "AttackAddedRatio",
       "SpeedDelta"
     ]
+  },
+  {
+    "AvatarID": 1317,
+    "Set4IDList": [
+      119,
+      111,
+      102
+    ],
+    "Set2IDList": [
+      307,
+      316,
+      301
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "AttackAddedRatio"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "AttackAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "BreakDamageAddedRatioBase"
+      }
+    ],
+    "SubAffixPropertyList": [
+      "BreakDamageAddedRatioBase",
+      "SpeedDelta",
+      "AttackAddedRatio"
+    ]
   }
 ]
