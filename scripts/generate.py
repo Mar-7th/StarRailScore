@@ -69,6 +69,7 @@ type_map = {
     "OBJECT": "6",
 }
 
+character_map = json.loads(Path("config/AvatarConfig.json").read_text(encoding="utf-8"))
 relic_recommend_map = json.loads(
     Path("config/AvatarRelicRecommend.json").read_text(encoding="utf-8")
 )
@@ -78,7 +79,6 @@ main_recommend_map = json.loads(
 sub_recommend_map = json.loads(
     Path("config/RelicSubAffixAvatarValue.json").read_text(encoding="utf-8")
 )
-character_map = json.loads(Path("config/AvatarConfig.json").read_text(encoding="utf-8"))
 
 score_map = json.loads(Path("score.json").read_text(encoding="utf-8"))
 
@@ -166,6 +166,13 @@ for character_item in character_map:
             "AttackAddedRatio": main_recommend_item.get("Attack", 0),
             "DefenceAddedRatio": main_recommend_item.get("Defence", 0),
         }
+        # fix highest value to 1
+        for part in ["3", "4", "5", "6"]:
+            if all(i != 1 for i in score_map[k]["main"][part].values()):
+                highest = max(score_map[k]["main"][part].values())
+                for i in score_map[k]["main"][part]:
+                    if score_map[k]["main"][part][i] == highest:
+                        score_map[k]["main"][part][i] = 1
         # some fix to attack and damage
         damage_add = main_recommend_item.get("DamageAddedRatio", 0)
         attack_add = main_recommend_item.get("Attack", 0)
