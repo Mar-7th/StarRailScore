@@ -3891,5 +3891,115 @@
     "LocalCriticalChance": {
       "Value": 0.45
     }
+  },
+  {
+    "AvatarID": 1405,
+    "Set4IDList": [
+      110,
+      117,
+      122
+    ],
+    "Set2IDList": [
+      309,
+      314,
+      308
+    ],
+    "PropertyList3": [
+      "CriticalChanceBase",
+      "CriticalDamageBase"
+    ],
+    "PropertyList4": [
+      "SpeedDelta",
+      "AttackAddedRatio"
+    ],
+    "PropertyList5": [
+      "WindAddedRatio",
+      "AttackAddedRatio"
+    ],
+    "PropertyList6": [
+      "SPRatioBase",
+      "AttackAddedRatio"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalChanceBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "WindAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "SPRatioBase"
+      }
+    ],
+    "SubAffixPropertyList": [
+      "CriticalChanceBase",
+      "CriticalDamageBase",
+      "AttackAddedRatio",
+      "SpeedDelta"
+    ],
+    "ScoreRankList": [
+      346,
+      287
+    ]
+  },
+  {
+    "AvatarID": 1407,
+    "Set4IDList": [
+      124,
+      108,
+      113
+    ],
+    "Set2IDList": [
+      319,
+      302,
+      318
+    ],
+    "PropertyList3": [
+      "CriticalDamageBase",
+      "CriticalChanceBase"
+    ],
+    "PropertyList4": [
+      "HPAddedRatio"
+    ],
+    "PropertyList5": [
+      "QuantumAddedRatio"
+    ],
+    "PropertyList6": [
+      "HPAddedRatio"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalDamageBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "HPAddedRatio"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "QuantumAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "HPAddedRatio"
+      }
+    ],
+    "SubAffixPropertyList": [
+      "CriticalChanceBase",
+      "CriticalDamageBase",
+      "HPAddedRatio"
+    ],
+    "ScoreRankList": [
+      319,
+      261
+    ]
   }
 ]
