@@ -4001,5 +4001,118 @@
       319,
       261
     ]
+  },
+  {
+    "AvatarID": 1406,
+    "Set4IDList": [
+      117,
+      108,
+      114
+    ],
+    "Set2IDList": [
+      317,
+      302,
+      308
+    ],
+    "PropertyList3": [
+      "CriticalDamageBase"
+    ],
+    "PropertyList4": [
+      "SpeedDelta"
+    ],
+    "PropertyList5": [
+      "QuantumAddedRatio",
+      "AttackAddedRatio"
+    ],
+    "PropertyList6": [
+      "AttackAddedRatio",
+      "SPRatioBase"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalDamageBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "QuantumAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "AttackAddedRatio"
+      }
+    ],
+    "SubAffixPropertyList": [
+      "SpeedDelta",
+      "AttackAddedRatio",
+      "CriticalDamageBase",
+      "CriticalChanceBase"
+    ],
+    "ScoreRankList": [
+      273,
+      236
+    ],
+    "LocalCriticalChance": {
+      "Value": 0.5
+    }
+  },
+  {
+    "AvatarID": 1409,
+    "Set4IDList": [
+      125,
+      101,
+      114
+    ],
+    "Set2IDList": [
+      320,
+      302,
+      308
+    ],
+    "PropertyList3": [
+      "HealRatioBase"
+    ],
+    "PropertyList4": [
+      "SpeedDelta"
+    ],
+    "PropertyList5": [
+      "HPAddedRatio",
+      "WindAddedRatio"
+    ],
+    "PropertyList6": [
+      "SPRatioBase",
+      "HPAddedRatio"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "HealRatioBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "HPAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "SPRatioBase"
+      }
+    ],
+    "SubAffixPropertyList": [
+      "HPAddedRatio",
+      "SpeedDelta",
+      "StatusResistanceBase",
+      "CriticalDamageBase"
+    ],
+    "ScoreRankList": [
+      304,
+      253
+    ]
   }
 ]

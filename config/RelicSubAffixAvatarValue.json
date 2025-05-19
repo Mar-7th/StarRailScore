@@ -696,6 +696,18 @@
     "BreakDamage": 0.1
   },
   {
+    "AvatarID": 1406,
+    "Attack": 0.6,
+    "HP": 0.4,
+    "Defence": 0.4,
+    "Speed": 1,
+    "CriticalChance": 0.6,
+    "CriticalDamage": 0.6,
+    "StatusProbability": 0.6,
+    "StatusResistance": 0.1,
+    "BreakDamage": 0.1
+  },
+  {
     "AvatarID": 1407,
     "HP": 1,
     "Defence": 0.1,
@@ -703,6 +715,16 @@
     "CriticalChance": 1,
     "CriticalDamage": 1,
     "StatusResistance": 0.1,
+    "BreakDamage": 0.1
+  },
+  {
+    "AvatarID": 1409,
+    "HP": 1,
+    "Defence": 0.1,
+    "Speed": 1,
+    "CriticalChance": 0.6,
+    "CriticalDamage": 0.6,
+    "StatusResistance": 0.4,
     "BreakDamage": 0.1
   },
   {
