@@ -4173,5 +4173,119 @@
       346,
       287
     ]
+  },
+  {
+    "AvatarID": 1015,
+    "Set4IDList": [
+      108,
+      122,
+      102
+    ],
+    "Set2IDList": [
+      309,
+      301,
+      306
+    ],
+    "PropertyList3": [
+      "CriticalChanceBase",
+      "CriticalDamageBase"
+    ],
+    "PropertyList4": [
+      "AttackAddedRatio",
+      "SpeedDelta"
+    ],
+    "PropertyList5": [
+      "QuantumAddedRatio",
+      "AttackAddedRatio"
+    ],
+    "PropertyList6": [
+      "AttackAddedRatio",
+      "SPRatioBase"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalChanceBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "AttackAddedRatio"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "QuantumAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "AttackAddedRatio"
+      }
+    ],
+    "SubAffixPropertyList": [
+      "CriticalChanceBase",
+      "CriticalDamageBase",
+      "AttackAddedRatio",
+      "SpeedDelta"
+    ],
+    "ScoreRankList": [
+      336,
+      281
+    ]
+  },
+  {
+    "AvatarID": 1014,
+    "Set4IDList": [
+      126,
+      122,
+      102
+    ],
+    "Set2IDList": [
+      306,
+      301,
+      309
+    ],
+    "PropertyList3": [
+      "CriticalChanceBase",
+      "CriticalDamageBase"
+    ],
+    "PropertyList4": [
+      "AttackAddedRatio",
+      "SpeedDelta"
+    ],
+    "PropertyList5": [
+      "WindAddedRatio",
+      "AttackAddedRatio"
+    ],
+    "PropertyList6": [
+      "AttackAddedRatio",
+      "SPRatioBase"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalChanceBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "AttackAddedRatio"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "WindAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "AttackAddedRatio"
+      }
+    ],
+    "SubAffixPropertyList": [
+      "CriticalChanceBase",
+      "CriticalDamageBase",
+      "AttackAddedRatio",
+      "SpeedDelta"
+    ],
+    "ScoreRankList": [
+      336,
+      281
+    ]
   }
 ]
