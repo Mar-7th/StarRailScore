@@ -32,7 +32,7 @@
     "CriticalDamage": 1,
     "StatusProbability": 0.1,
     "StatusResistance": 0.1,
-    "BreakDamage": 0.4
+    "BreakDamage": 0.1
   },
   {
     "AvatarID": 1004,
@@ -42,7 +42,7 @@
     "Speed": 1,
     "CriticalChance": 1,
     "CriticalDamage": 1,
-    "StatusProbability": 0.8,
+    "StatusProbability": 0.4,
     "StatusResistance": 0.1,
     "BreakDamage": 0.1
   },
@@ -68,7 +68,7 @@
     "CriticalDamage": 1,
     "StatusProbability": 0.8,
     "StatusResistance": 0.1,
-    "BreakDamage": 0.4
+    "BreakDamage": 0.1
   },
   {
     "AvatarID": 1008,
@@ -84,13 +84,13 @@
   {
     "AvatarID": 1009,
     "Attack": 0.8,
-    "HP": 0.4,
-    "Defence": 0.4,
+    "HP": 0.1,
+    "Defence": 0.1,
     "Speed": 1,
     "CriticalChance": 0.8,
     "CriticalDamage": 0.8,
     "StatusResistance": 0.1,
-    "BreakDamage": 0.4
+    "BreakDamage": 0.1
   },
   {
     "AvatarID": 1013,
@@ -128,8 +128,8 @@
   {
     "AvatarID": 1101,
     "Attack": 0.1,
-    "HP": 0.4,
-    "Defence": 0.4,
+    "HP": 0.2,
+    "Defence": 0.2,
     "Speed": 1,
     "CriticalDamage": 1,
     "StatusResistance": 0.8,
@@ -238,9 +238,9 @@
     "HP": 0.1,
     "Defence": 0.1,
     "Speed": 1,
-    "CriticalChance": 0.4,
-    "CriticalDamage": 0.4,
-    "StatusProbability": 0.6,
+    "CriticalChance": 0.6,
+    "CriticalDamage": 0.6,
+    "StatusProbability": 0.4,
     "StatusResistance": 0.1,
     "BreakDamage": 0.8
   },
@@ -269,8 +269,8 @@
   {
     "AvatarID": 1202,
     "Attack": 1,
-    "HP": 0.4,
-    "Defence": 0.4,
+    "HP": 0.2,
+    "Defence": 0.2,
     "Speed": 1,
     "StatusResistance": 0.8,
     "BreakDamage": 0.1
@@ -278,8 +278,8 @@
   {
     "AvatarID": 1203,
     "Attack": 1,
-    "HP": 0.4,
-    "Defence": 0.4,
+    "HP": 0.2,
+    "Defence": 0.2,
     "Speed": 1,
     "StatusResistance": 0.8,
     "BreakDamage": 0.1
@@ -326,7 +326,7 @@
     "CriticalChance": 1,
     "CriticalDamage": 1,
     "StatusResistance": 0.1,
-    "BreakDamage": 0.4
+    "BreakDamage": 0.1
   },
   {
     "AvatarID": 1208,
@@ -405,8 +405,8 @@
   {
     "AvatarID": 1215,
     "Attack": 0.1,
-    "HP": 0.6,
-    "Defence": 0.6,
+    "HP": 0.2,
+    "Defence": 0.2,
     "Speed": 1,
     "CriticalChance": 0.1,
     "CriticalDamage": 0.1,
@@ -430,7 +430,7 @@
     "CriticalChance": 0.1,
     "CriticalDamage": 0.1,
     "StatusProbability": 1,
-    "StatusResistance": 0.4,
+    "StatusResistance": 0.1,
     "BreakDamage": 0.1
   },
   {
@@ -452,14 +452,14 @@
     "Speed": 0.6,
     "CriticalChance": 1,
     "CriticalDamage": 1,
-    "StatusResistance": 0.4,
+    "StatusResistance": 0.1,
     "BreakDamage": 0.1
   },
   {
     "AvatarID": 1222,
     "Attack": 1,
-    "HP": 0.4,
-    "Defence": 0.4,
+    "HP": 0.2,
+    "Defence": 0.2,
     "Speed": 1,
     "CriticalChance": 0.1,
     "CriticalDamage": 0.1,
@@ -491,20 +491,20 @@
   {
     "AvatarID": 1225,
     "Attack": 0.1,
-    "HP": 0.4,
-    "Defence": 0.4,
+    "HP": 0.2,
+    "Defence": 0.2,
     "Speed": 1,
     "CriticalChance": 0.1,
     "CriticalDamage": 0.1,
     "StatusProbability": 1,
-    "StatusResistance": 0.4,
+    "StatusResistance": 0.1,
     "BreakDamage": 1
   },
   {
     "AvatarID": 1301,
     "Attack": 0.1,
-    "HP": 0.8,
-    "Defence": 0.4,
+    "HP": 0.2,
+    "Defence": 0.2,
     "Speed": 1,
     "CriticalChance": 0.1,
     "CriticalDamage": 0.1,
@@ -526,10 +526,10 @@
   {
     "AvatarID": 1303,
     "Attack": 0.1,
-    "HP": 0.4,
-    "Defence": 0.4,
+    "HP": 0.2,
+    "Defence": 0.2,
     "Speed": 1,
-    "StatusResistance": 0.6,
+    "StatusResistance": 0.4,
     "BreakDamage": 1
   },
   {
@@ -540,7 +540,7 @@
     "CriticalChance": 0.9,
     "CriticalDamage": 0.9,
     "StatusProbability": 0.1,
-    "StatusResistance": 0.6,
+    "StatusResistance": 0.4,
     "BreakDamage": 0.1
   },
   {
@@ -558,11 +558,11 @@
   {
     "AvatarID": 1306,
     "Attack": 0.1,
-    "HP": 0.4,
-    "Defence": 0.4,
+    "HP": 0.2,
+    "Defence": 0.2,
     "Speed": 1,
     "CriticalDamage": 1,
-    "StatusResistance": 0.8,
+    "StatusResistance": 0.4,
     "BreakDamage": 0.1
   },
   {
@@ -592,10 +592,10 @@
   {
     "AvatarID": 1309,
     "Attack": 1,
-    "HP": 0.4,
-    "Defence": 0.4,
+    "HP": 0.2,
+    "Defence": 0.2,
     "Speed": 0.6,
-    "StatusResistance": 0.6,
+    "StatusResistance": 0.4,
     "BreakDamage": 0.1
   },
   {
@@ -624,11 +624,11 @@
   {
     "AvatarID": 1313,
     "Attack": 0.1,
-    "HP": 0.4,
-    "Defence": 0.4,
+    "HP": 0.2,
+    "Defence": 0.2,
     "Speed": 1,
     "CriticalDamage": 1,
-    "StatusResistance": 0.8,
+    "StatusResistance": 0.4,
     "BreakDamage": 0.1
   },
   {
@@ -719,12 +719,12 @@
   {
     "AvatarID": 1406,
     "Attack": 0.6,
-    "HP": 0.4,
-    "Defence": 0.4,
+    "HP": 0.1,
+    "Defence": 0.1,
     "Speed": 1,
     "CriticalChance": 0.6,
     "CriticalDamage": 0.6,
-    "StatusProbability": 0.6,
+    "StatusProbability": 0.1,
     "StatusResistance": 0.1,
     "BreakDamage": 0.1
   },
@@ -756,6 +756,26 @@
     "Speed": 1,
     "CriticalDamage": 0.6,
     "StatusResistance": 0.4,
+    "BreakDamage": 0.1
+  },
+  {
+    "AvatarID": 1410,
+    "Attack": 1,
+    "HP": 0.1,
+    "Defence": 0.1,
+    "Speed": 1,
+    "StatusProbability": 1,
+    "StatusResistance": 0.1,
+    "BreakDamage": 0.1
+  },
+  {
+    "AvatarID": 1412,
+    "Attack": 1,
+    "HP": 0.1,
+    "Defence": 0.1,
+    "Speed": 1,
+    "CriticalDamage": 0.8,
+    "StatusResistance": 0.1,
     "BreakDamage": 0.1
   },
   {
@@ -807,25 +827,25 @@
   {
     "AvatarID": 8005,
     "Attack": 0.1,
-    "HP": 0.4,
-    "Defence": 0.4,
+    "HP": 0.2,
+    "Defence": 0.2,
     "Speed": 1,
     "CriticalChance": 0.1,
     "CriticalDamage": 0.1,
     "StatusProbability": 0.1,
-    "StatusResistance": 0.6,
+    "StatusResistance": 0.4,
     "BreakDamage": 1
   },
   {
     "AvatarID": 8006,
     "Attack": 0.1,
-    "HP": 0.4,
-    "Defence": 0.4,
+    "HP": 0.2,
+    "Defence": 0.2,
     "Speed": 1,
     "CriticalChance": 0.1,
     "CriticalDamage": 0.1,
     "StatusProbability": 0.1,
-    "StatusResistance": 0.6,
+    "StatusResistance": 0.4,
     "BreakDamage": 1
   },
   {
@@ -835,7 +855,7 @@
     "Defence": 0.1,
     "Speed": 1,
     "CriticalDamage": 1,
-    "StatusResistance": 0.4,
+    "StatusResistance": 0.1,
     "BreakDamage": 0.1
   },
   {
@@ -845,7 +865,7 @@
     "Defence": 0.1,
     "Speed": 1,
     "CriticalDamage": 1,
-    "StatusResistance": 0.4,
+    "StatusResistance": 0.1,
     "BreakDamage": 0.1
   }
 ]

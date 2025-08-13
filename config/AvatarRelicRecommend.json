@@ -161,8 +161,8 @@
       "SpeedDelta"
     ],
     "ScoreRankList": [
-      343,
-      289
+      340,
+      286
     ],
     "LocalCriticalChance": {
       "Value": 0.15
@@ -219,8 +219,8 @@
       "SpeedDelta"
     ],
     "ScoreRankList": [
-      358,
-      302
+      351,
+      296
     ]
   },
   {
@@ -270,11 +270,12 @@
       "SpeedDelta",
       "StatusProbabilityBase",
       "CriticalChanceBase",
-      "CriticalDamageBase"
+      "CriticalDamageBase",
+      "AttackAddedRatio"
     ],
     "ScoreRankList": [
-      340,
-      285
+      337,
+      280
     ]
   },
   {
@@ -383,8 +384,8 @@
       "CriticalDamageBase"
     ],
     "ScoreRankList": [
-      321,
-      278
+      305,
+      259
     ]
   },
   {
@@ -436,7 +437,8 @@
     "SubAffixPropertyList": [
       "CriticalChanceBase",
       "CriticalDamageBase",
-      "AttackAddedRatio"
+      "AttackAddedRatio",
+      "SpeedDelta"
     ],
     "ScoreRankList": [
       338,
@@ -495,8 +497,8 @@
       "StatusResistanceBase"
     ],
     "ScoreRankList": [
-      247,
-      188
+      239,
+      180
     ],
     "LocalCriticalChance": {
       "Value": 1
@@ -770,7 +772,8 @@
       "SpeedDelta",
       "StatusProbabilityBase",
       "CriticalChanceBase",
-      "CriticalDamageBase"
+      "CriticalDamageBase",
+      "AttackAddedRatio"
     ],
     "ScoreRankList": [
       318,
@@ -824,7 +827,8 @@
     "SubAffixPropertyList": [
       "CriticalChanceBase",
       "CriticalDamageBase",
-      "AttackAddedRatio"
+      "AttackAddedRatio",
+      "SpeedDelta"
     ],
     "ScoreRankList": [
       331,
@@ -1093,8 +1097,8 @@
       "StatusResistanceBase"
     ],
     "ScoreRankList": [
-      318,
-      263
+      308,
+      253
     ]
   },
   {
@@ -1147,8 +1151,8 @@
       "StatusResistanceBase"
     ],
     "ScoreRankList": [
-      322,
-      266
+      312,
+      256
     ]
   },
   {
@@ -1257,7 +1261,8 @@
       "CriticalChanceBase",
       "CriticalDamageBase",
       "AttackAddedRatio",
-      "SpeedDelta"
+      "SpeedDelta",
+      "BreakDamageAddedRatioBase"
     ],
     "ScoreRankList": [
       353,
@@ -1314,8 +1319,8 @@
       "CriticalDamageBase"
     ],
     "ScoreRankList": [
-      350,
-      294
+      346,
+      290
     ],
     "LocalCriticalChance": {
       "Value": 0.28
@@ -1798,11 +1803,13 @@
     "SubAffixPropertyList": [
       "AttackAddedRatio",
       "SpeedDelta",
-      "BreakDamageAddedRatioBase"
+      "BreakDamageAddedRatioBase",
+      "CriticalChanceBase",
+      "CriticalDamageBase"
     ],
     "ScoreRankList": [
-      322,
-      284
+      336,
+      287
     ]
   },
   {
@@ -1961,12 +1968,11 @@
     ],
     "SubAffixPropertyList": [
       "SpeedDelta",
-      "AttackAddedRatio",
       "StatusResistanceBase"
     ],
     "ScoreRankList": [
-      254,
-      208
+      237,
+      191
     ]
   },
   {
@@ -2070,7 +2076,8 @@
       "BreakDamageAddedRatioBase",
       "CriticalChanceBase",
       "CriticalDamageBase",
-      "AttackAddedRatio"
+      "AttackAddedRatio",
+      "SpeedDelta"
     ],
     "ScoreRankList": [
       348,
@@ -2186,8 +2193,8 @@
       "StatusResistanceBase"
     ],
     "ScoreRankList": [
-      241,
-      187
+      227,
+      176
     ]
   },
   {
@@ -2296,8 +2303,8 @@
       "StatusResistanceBase"
     ],
     "ScoreRankList": [
-      247,
-      187
+      229,
+      170
     ],
     "LocalCriticalChance": {
       "Value": 1
@@ -2460,8 +2467,8 @@
       "StatusResistanceBase"
     ],
     "ScoreRankList": [
-      309,
-      254
+      293,
+      237
     ]
   },
   {
@@ -2516,8 +2523,8 @@
       "SpeedDelta"
     ],
     "ScoreRankList": [
-      301,
-      247
+      297,
+      245
     ],
     "LocalCriticalChance": {
       "Value": 0.48
@@ -2625,12 +2632,11 @@
     "SubAffixPropertyList": [
       "AttackAddedRatio",
       "AttackDelta",
-      "SpeedDelta",
-      "StatusResistanceBase"
+      "SpeedDelta"
     ],
     "ScoreRankList": [
-      313,
-      272
+      299,
+      258
     ]
   },
   {
@@ -2787,7 +2793,8 @@
       "BreakDamageAddedRatioBase",
       "SpeedDelta",
       "AttackAddedRatio",
-      "CriticalChanceBase"
+      "CriticalChanceBase",
+      "CriticalDamageBase"
     ],
     "ScoreRankList": [
       280,
@@ -2846,8 +2853,8 @@
       "SpeedDelta"
     ],
     "ScoreRankList": [
-      243,
-      191
+      231,
+      180
     ]
   },
   {
@@ -2899,8 +2906,8 @@
       "SpeedDelta"
     ],
     "ScoreRankList": [
-      243,
-      191
+      231,
+      180
     ]
   },
   {
@@ -2951,8 +2958,8 @@
       "SpeedDelta"
     ],
     "ScoreRankList": [
-      328,
-      273
+      324,
+      268
     ]
   },
   {
@@ -3003,11 +3010,12 @@
     "SubAffixPropertyList": [
       "CriticalChanceBase",
       "CriticalDamageBase",
-      "AttackAddedRatio"
+      "AttackAddedRatio",
+      "SpeedDelta"
     ],
     "ScoreRankList": [
-      337,
-      283
+      333,
+      279
     ]
   },
   {
@@ -3168,8 +3176,8 @@
       "AttackAddedRatio"
     ],
     "ScoreRankList": [
-      344,
-      297
+      335,
+      288
     ]
   },
   {
@@ -3328,8 +3336,8 @@
       "StatusProbabilityBase"
     ],
     "ScoreRankList": [
-      271,
-      213
+      258,
+      200
     ]
   },
   {
@@ -3381,8 +3389,8 @@
       "StatusResistanceBase"
     ],
     "ScoreRankList": [
-      247,
-      187
+      229,
+      170
     ],
     "LocalCriticalChance": {
       "Value": 1
@@ -3549,8 +3557,8 @@
       "AttackAddedRatio"
     ],
     "ScoreRankList": [
-      294,
-      237
+      290,
+      232
     ],
     "LocalCriticalChance": {
       "Value": 1
@@ -3606,8 +3614,8 @@
       "AttackAddedRatio"
     ],
     "ScoreRankList": [
-      294,
-      237
+      290,
+      232
     ],
     "LocalCriticalChance": {
       "Value": 1
@@ -3945,8 +3953,8 @@
       "CriticalDamageBase"
     ],
     "ScoreRankList": [
-      296,
-      242
+      292,
+      238
     ],
     "LocalCriticalChance": {
       "Value": 1
@@ -4066,6 +4074,120 @@
     ]
   },
   {
+    "AvatarID": 1410,
+    "Set4IDList": [
+      116,
+      105,
+      102
+    ],
+    "Set2IDList": [
+      322,
+      301,
+      311
+    ],
+    "PropertyList3": [
+      "StatusProbabilityBase",
+      "AttackAddedRatio"
+    ],
+    "PropertyList4": [
+      "SpeedDelta",
+      "AttackAddedRatio"
+    ],
+    "PropertyList5": [
+      "PhysicalAddedRatio"
+    ],
+    "PropertyList6": [
+      "SPRatioBase",
+      "AttackAddedRatio"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "StatusProbabilityBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "PhysicalAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "SPRatioBase"
+      }
+    ],
+    "SubAffixPropertyList": [
+      "StatusProbabilityBase",
+      "SpeedDelta",
+      "AttackAddedRatio"
+    ],
+    "ScoreRankList": [
+      323,
+      268
+    ]
+  },
+  {
+    "AvatarID": 1412,
+    "Set4IDList": [
+      121,
+      110,
+      102
+    ],
+    "Set2IDList": [
+      317,
+      302,
+      301
+    ],
+    "PropertyList3": [
+      "AttackAddedRatio",
+      "CriticalDamageBase"
+    ],
+    "PropertyList4": [
+      "SpeedDelta",
+      "AttackAddedRatio"
+    ],
+    "PropertyList5": [
+      "AttackAddedRatio",
+      "WindAddedRatio"
+    ],
+    "PropertyList6": [
+      "SPRatioBase",
+      "AttackAddedRatio"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "AttackAddedRatio"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "AttackAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "SPRatioBase"
+      }
+    ],
+    "SubAffixPropertyList": [
+      "AttackAddedRatio",
+      "SpeedDelta",
+      "CriticalDamageBase"
+    ],
+    "ScoreRankList": [
+      306,
+      252
+    ],
+    "LocalCriticalChance": {
+      "Value": 1
+    }
+  },
+  {
     "AvatarID": 1005,
     "Set4IDList": [
       116,
@@ -4128,8 +4250,8 @@
     ],
     "Set2IDList": [
       319,
-      309,
-      302
+      306,
+      309
     ],
     "PropertyList3": [
       "CriticalChanceBase",

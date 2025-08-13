@@ -831,6 +831,28 @@
     "HealRatio": 1
   },
   {
+    "AvatarID": 1410,
+    "Attack": 1,
+    "HP": 0.1,
+    "Defence": 0.1,
+    "Speed": 1,
+    "StatusProbability": 1,
+    "BreakDamage": 0.1,
+    "DamageAddedRatio": 1,
+    "SPRatio": 1
+  },
+  {
+    "AvatarID": 1412,
+    "Attack": 1,
+    "HP": 0.1,
+    "Defence": 0.1,
+    "Speed": 1,
+    "CriticalDamage": 0.8,
+    "BreakDamage": 0.1,
+    "DamageAddedRatio": 0.8,
+    "SPRatio": 1
+  },
+  {
     "AvatarID": 8001,
     "Attack": 1,
     "HP": 0.1,

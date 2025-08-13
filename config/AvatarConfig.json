@@ -5623,6 +5623,148 @@
     "AvatarSelfShowOffset": []
   },
   {
+    "AvatarID": 1410,
+    "AvatarName": {
+      "Hash": 11044358311620332259
+    },
+    "AvatarFullName": {
+      "Hash": 3748931306834827608
+    },
+    "AdventurePlayerID": 1410,
+    "AvatarVOTag": "hysilens",
+    "Rarity": "CombatPowerAvatarRarityType5",
+    "JsonPath": "Config/ConfigCharacter/Avatar/Avatar_Harscyline_00_Config.json",
+    "DamageType": "Physical",
+    "SPNeed": {
+      "Value": 110
+    },
+    "ExpGroup": 1,
+    "MaxPromotion": 6,
+    "MaxRank": 6,
+    "RankIDList": [
+      141001,
+      141002,
+      141003,
+      141004,
+      141005,
+      141006
+    ],
+    "SkillList": [
+      141001,
+      141002,
+      141003,
+      141004,
+      141006,
+      141007
+    ],
+    "AvatarBaseType": "Warlock",
+    "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Harscyline_00/Avatar_Harscyline_00.prefab",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1410.png",
+    "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1410.png",
+    "AvatarMiniIconPath": "SpriteOutput/AvatarMiniIcon/1410.png",
+    "AvatarGachaResultImgPath": "SpriteOutput/AvatarDrawCardResult/1410.png",
+    "ActionAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1410B.png",
+    "UltraSkillCutInPrefabPath": "UI/Battle/UltraSkillCutIn/Avatar/UltraSkillCutIn_1410.prefab",
+    "UIAvatarModelPath": "Characters/CharacterPrefabs/Manikin/Avatar/Harscyline_00/Manikin_Avatar_Maid_Harscyline_00.prefab",
+    "ManikinJsonPath": "Config/ConfigCharacter/Manikin/Avatar/Manikin_Avatar_Harscyline_00_Config.json",
+    "AIPath": "Config/ConfigAI/Avatar_ComplexSkilll_AutoFight_AI.json",
+    "SkilltreePrefabPath": "UI/Avatar/Widget/WarlockSkillTreeGroup.prefab",
+    "DamageTypeResistance": [],
+    "Release": true,
+    "SideAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1410.png",
+    "WaitingAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1410.png",
+    "AvatarCutinImgPath": "SpriteOutput/AvatarCutinFigures/1410.png",
+    "AvatarCutinBgImgPath": "SpriteOutput/AvatarCutinBg/1410.png",
+    "AvatarCutinFrontImgPath": "SpriteOutput/AvatarDrawCard/1410.png",
+    "AvatarDropOffset": [
+      175,
+      12,
+      0.63,
+      175,
+      12,
+      0.63,
+      175,
+      12,
+      0.63
+    ],
+    "AvatarTrialOffset": [],
+    "PlayerCardOffset": [],
+    "AssistOffset": [],
+    "AssistBgOffset": [],
+    "AvatarSelfShowOffset": []
+  },
+  {
+    "AvatarID": 1412,
+    "AvatarName": {
+      "Hash": 3528626799663072375
+    },
+    "AvatarFullName": {
+      "Hash": 15603964000983029059
+    },
+    "AdventurePlayerID": 1412,
+    "AvatarVOTag": "cerydra",
+    "Rarity": "CombatPowerAvatarRarityType5",
+    "JsonPath": "Config/ConfigCharacter/Avatar/Avatar_Cerydra_00_Config.json",
+    "DamageType": "Wind",
+    "SPNeed": {
+      "Value": 130
+    },
+    "ExpGroup": 1,
+    "MaxPromotion": 6,
+    "MaxRank": 6,
+    "RankIDList": [
+      141201,
+      141202,
+      141203,
+      141204,
+      141205,
+      141206
+    ],
+    "SkillList": [
+      141201,
+      141202,
+      141203,
+      141204,
+      141206,
+      141207
+    ],
+    "AvatarBaseType": "Shaman",
+    "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Cerydra_00/Avatar_Cerydra_00.prefab",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1412.png",
+    "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1412.png",
+    "AvatarMiniIconPath": "SpriteOutput/AvatarMiniIcon/1412.png",
+    "AvatarGachaResultImgPath": "SpriteOutput/AvatarDrawCardResult/1412.png",
+    "ActionAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1412B.png",
+    "UltraSkillCutInPrefabPath": "UI/Battle/UltraSkillCutIn/Avatar/UltraSkillCutIn_1412.prefab",
+    "UIAvatarModelPath": "Characters/CharacterPrefabs/Manikin/Avatar/Cerydra_00/Manikin_Avatar_Girl_Cerydra_00.prefab",
+    "ManikinJsonPath": "Config/ConfigCharacter/Manikin/Avatar/Manikin_Avatar_Cerydra_00_Config.json",
+    "AIPath": "Config/ConfigAI/Avatar_ComplexSkilll_AutoFight_AI.json",
+    "SkilltreePrefabPath": "UI/Avatar/Widget/ShamanSkillTreeGroup.prefab",
+    "DamageTypeResistance": [],
+    "Release": true,
+    "SideAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1412.png",
+    "WaitingAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1412.png",
+    "AvatarCutinImgPath": "SpriteOutput/AvatarCutinFigures/1412.png",
+    "AvatarCutinBgImgPath": "SpriteOutput/AvatarCutinBg/1412.png",
+    "AvatarCutinFrontImgPath": "SpriteOutput/AvatarDrawCard/1412.png",
+    "AvatarDropOffset": [
+      57,
+      -50,
+      0.63,
+      57,
+      -50,
+      0.63,
+      57,
+      -50,
+      0.63
+    ],
+    "AvatarTrialOffset": [],
+    "PlayerCardOffset": [],
+    "AssistOffset": [],
+    "AssistBgOffset": [],
+    "AvatarSelfShowOffset": []
+  },
+  {
     "AvatarID": 8001,
     "AvatarName": {
       "Hash": 15351791685587679468
