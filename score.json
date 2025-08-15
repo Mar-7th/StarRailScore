@@ -288,11 +288,11 @@
             "SpeedDelta": 1,
             "CriticalChanceBase": 0.1,
             "CriticalDamageBase": 0.1,
-            "StatusProbabilityBase": 0.6,
+            "StatusProbabilityBase": 1,
             "StatusResistanceBase": 0.1,
             "BreakDamageAddedRatioBase": 0.1
         },
-        "max": 8.94
+        "max": 9.42
     },
     "1006": {
         "main": {

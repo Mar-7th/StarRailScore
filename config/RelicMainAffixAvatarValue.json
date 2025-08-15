@@ -58,7 +58,7 @@
     "Speed": 1,
     "CriticalChance": 0.1,
     "CriticalDamage": 0.1,
-    "StatusProbability": 0.6,
+    "StatusProbability": 1,
     "BreakDamage": 0.1,
     "DamageAddedRatio": 1,
     "SPRatio": 1
