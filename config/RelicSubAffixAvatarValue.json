@@ -800,6 +800,16 @@
     "BreakDamage": 0.1
   },
   {
+    "AvatarID": 1415,
+    "HP": 0.8,
+    "Defence": 0.1,
+    "Speed": 1,
+    "CriticalChance": 0.8,
+    "CriticalDamage": 0.8,
+    "StatusResistance": 0.1,
+    "BreakDamage": 0.1
+  },
+  {
     "AvatarID": 8001,
     "Attack": 1,
     "HP": 0.1,

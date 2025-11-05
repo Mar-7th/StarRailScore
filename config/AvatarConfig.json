@@ -5908,6 +5908,80 @@
     "AvatarSelfShowOffset": []
   },
   {
+    "AvatarID": 1415,
+    "AvatarName": {
+      "Hash": 7809981386909966580
+    },
+    "AvatarFullName": {
+      "Hash": 6913947020277665560
+    },
+    "AdventurePlayerID": 1415,
+    "AvatarVOTag": "cyrene",
+    "Rarity": "CombatPowerAvatarRarityType5",
+    "JsonPath": "Config/ConfigCharacter/Avatar/Avatar_Cyrene_00_Config.json",
+    "DamageType": "Ice",
+    "SPNeed": {
+      "Value": 24
+    },
+    "ExpGroup": 1,
+    "MaxPromotion": 6,
+    "MaxRank": 6,
+    "RankIDList": [
+      141501,
+      141502,
+      141503,
+      141504,
+      141505,
+      141506
+    ],
+    "SkillList": [
+      141501,
+      141502,
+      141503,
+      141504,
+      141506,
+      141507,
+      141508,
+      141514,
+      141519
+    ],
+    "AvatarBaseType": "Memory",
+    "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Cyrene_00/Avatar_Cyrene_00.prefab",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1415.png",
+    "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1415.png",
+    "AvatarMiniIconPath": "SpriteOutput/AvatarMiniIcon/1415.png",
+    "AvatarGachaResultImgPath": "SpriteOutput/AvatarDrawCardResult/1415.png",
+    "ActionAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1415B.png",
+    "UltraSkillCutInPrefabPath": "UI/Battle/UltraSkillCutIn/Avatar/UltraSkillCutIn_1415.prefab",
+    "UIAvatarModelPath": "Characters/CharacterPrefabs/Manikin/Avatar/Cyrene_00/Manikin_Avatar_Maid_Cyrene_00.prefab",
+    "ManikinJsonPath": "Config/ConfigCharacter/Manikin/Avatar/Manikin_Avatar_Cyrene_00_Config.json",
+    "AIPath": "Config/ConfigAI/Avatar_ComplexSkilll_AutoFight_AI.json",
+    "SkilltreePrefabPath": "UI/Avatar/Widget/MemorySkillTreeGroup.prefab",
+    "DamageTypeResistance": [],
+    "Release": true,
+    "SideAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1415.png",
+    "WaitingAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1415.png",
+    "AvatarCutinImgPath": "SpriteOutput/AvatarCutinFigures/1415.png",
+    "AvatarCutinBgImgPath": "SpriteOutput/AvatarCutinBg/1415.png",
+    "AvatarCutinFrontImgPath": "SpriteOutput/AvatarDrawCard/1415.png",
+    "AvatarDropOffset": [
+      0,
+      180,
+      0.61,
+      0,
+      180,
+      0.61,
+      0,
+      180,
+      0.61
+    ],
+    "AvatarTrialOffset": [],
+    "PlayerCardOffset": [],
+    "AssistOffset": [],
+    "AssistBgOffset": [],
+    "AvatarSelfShowOffset": []
+  },
+  {
     "AvatarID": 8001,
     "AvatarName": {
       "Hash": 15351791685587679468
@@ -6397,6 +6471,7 @@
       800704,
       800706,
       800707,
+      800708,
       800709
     ],
     "AvatarBaseType": "Memory",
@@ -6459,6 +6534,7 @@
       800804,
       800806,
       800807,
+      800808,
       800809
     ],
     "AvatarBaseType": "Memory",

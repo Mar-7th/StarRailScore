@@ -2049,10 +2049,12 @@
       "AttackAddedRatio"
     ],
     "PropertyList5": [
-      "QuantumAddedRatio"
+      "QuantumAddedRatio",
+      "AttackAddedRatio"
     ],
     "PropertyList6": [
-      "BreakDamageAddedRatioBase"
+      "BreakDamageAddedRatioBase",
+      "AttackAddedRatio"
     ],
     "PropertyList": [
       {
@@ -2108,7 +2110,8 @@
       "PhysicalAddedRatio"
     ],
     "PropertyList6": [
-      "AttackAddedRatio"
+      "AttackAddedRatio",
+      "SPRatioBase"
     ],
     "PropertyList": [
       {
@@ -2441,7 +2444,8 @@
       "DefenceAddedRatio"
     ],
     "PropertyList6": [
-      "BreakDamageAddedRatioBase"
+      "BreakDamageAddedRatioBase",
+      "SPRatioBase"
     ],
     "PropertyList": [
       {
@@ -2484,8 +2488,8 @@
       310
     ],
     "PropertyList3": [
-      "CriticalDamageBase",
-      "CriticalChanceBase"
+      "DefenceAddedRatio",
+      "CriticalDamageBase"
     ],
     "PropertyList4": [
       "DefenceAddedRatio",
@@ -2501,7 +2505,7 @@
     "PropertyList": [
       {
         "RelicType": "BODY",
-        "PropertyType": "CriticalDamageBase"
+        "PropertyType": "DefenceAddedRatio"
       },
       {
         "RelicType": "FOOT",
@@ -3310,7 +3314,8 @@
       "HPAddedRatio"
     ],
     "PropertyList6": [
-      "SPRatioBase"
+      "SPRatioBase",
+      "BreakDamageAddedRatioBase"
     ],
     "PropertyList": [
       {
@@ -3641,7 +3646,8 @@
       "HPAddedRatio"
     ],
     "PropertyList5": [
-      "QuantumAddedRatio"
+      "QuantumAddedRatio",
+      "HPAddedRatio"
     ],
     "PropertyList6": [
       "SPRatioBase",
@@ -3804,14 +3810,14 @@
       318
     ],
     "PropertyList3": [
-      "CriticalDamageBase",
-      "CriticalChanceBase"
+      "CriticalDamageBase"
     ],
     "PropertyList4": [
       "HPAddedRatio"
     ],
     "PropertyList5": [
-      "QuantumAddedRatio"
+      "QuantumAddedRatio",
+      "HPAddedRatio"
     ],
     "PropertyList6": [
       "HPAddedRatio"
@@ -3921,8 +3927,7 @@
       "SpeedDelta"
     ],
     "PropertyList5": [
-      "HPAddedRatio",
-      "WindAddedRatio"
+      "HPAddedRatio"
     ],
     "PropertyList6": [
       "SPRatioBase",
@@ -3973,8 +3978,8 @@
       306
     ],
     "PropertyList3": [
-      "CriticalDamageBase",
-      "HPAddedRatio"
+      "HPAddedRatio",
+      "CriticalDamageBase"
     ],
     "PropertyList4": [
       "SpeedDelta",
@@ -3990,7 +3995,7 @@
     "PropertyList": [
       {
         "RelicType": "BODY",
-        "PropertyType": "CriticalDamageBase"
+        "PropertyType": "HPAddedRatio"
       },
       {
         "RelicType": "FOOT",
@@ -4141,16 +4146,14 @@
       301
     ],
     "PropertyList3": [
-      "AttackAddedRatio",
-      "CriticalDamageBase"
+      "AttackAddedRatio"
     ],
     "PropertyList4": [
       "SpeedDelta",
       "AttackAddedRatio"
     ],
     "PropertyList5": [
-      "AttackAddedRatio",
-      "WindAddedRatio"
+      "AttackAddedRatio"
     ],
     "PropertyList6": [
       "SPRatioBase",
@@ -4200,7 +4203,8 @@
       301
     ],
     "PropertyList3": [
-      "StatusProbabilityBase"
+      "StatusProbabilityBase",
+      "AttackAddedRatio"
     ],
     "PropertyList4": [
       "SpeedDelta"
@@ -4262,7 +4266,8 @@
       "HPAddedRatio"
     ],
     "PropertyList5": [
-      "WindAddedRatio"
+      "WindAddedRatio",
+      "HPAddedRatio"
     ],
     "PropertyList6": [
       "HPAddedRatio"
@@ -4317,7 +4322,8 @@
       "HPAddedRatio"
     ],
     "PropertyList5": [
-      "IceAddedRatio"
+      "IceAddedRatio",
+      "HPAddedRatio"
     ],
     "PropertyList6": [
       "HPAddedRatio"
@@ -4403,6 +4409,63 @@
       279,
       216
     ]
+  },
+  {
+    "AvatarID": 1415,
+    "Set4IDList": [
+      127,
+      114,
+      123
+    ],
+    "Set2IDList": [
+      323,
+      319,
+      320
+    ],
+    "PropertyList3": [
+      "CriticalDamageBase"
+    ],
+    "PropertyList4": [
+      "SpeedDelta"
+    ],
+    "PropertyList5": [
+      "HPAddedRatio",
+      "IceAddedRatio"
+    ],
+    "PropertyList6": [
+      "HPAddedRatio"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalDamageBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "HPAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "HPAddedRatio"
+      }
+    ],
+    "SubAffixPropertyList": [
+      "SpeedDelta",
+      "CriticalDamageBase",
+      "CriticalChanceBase",
+      "HPAddedRatio"
+    ],
+    "ScoreRankList": [
+      276,
+      223
+    ],
+    "LocalCriticalChance": {
+      "Value": 0.5
+    }
   },
   {
     "AvatarID": 1015,
