@@ -57,6 +57,14 @@ init_data = {
         "StatusResistanceBase": 0,
         "BreakDamageAddedRatioBase": 0,
     },
+    "maxV2": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+    },
     "max": 0,
 }
 
@@ -214,38 +222,107 @@ for k, v in score_map.items():
     sub_affix_weight_ordered = sorted(
         v["weight"].items(), key=lambda x: x[1], reverse=True
     )
+    
     full_score_affix = []
     for i in sub_affix_weight_ordered:
         if i[1] == 1:
             full_score_affix.append(i[0])
-    max_score = 0
-    for i in ["3", "4", "5", "6"]:
-        ordered_i = sorted(v["main"][i].items(), key=lambda x: x[1], reverse=True)
-        sub_affix_weight_this = []
+
+    # Calculate maxV2 (new algorithm) and max (legacy algorithm) per part
+    maxV2_scores = {}
+    legacy_max_scores = {}
+    
+    for part in ["1", "2", "3", "4", "5", "6"]:
+        # Calculate maxV2: new algorithm with difficulty-adjusted counts and exclusions
+        excluded_sub_affix_v2 = None
+        
+        if part == "1":
+            excluded_sub_affix_v2 = "HPDelta"
+        elif part == "2":
+            excluded_sub_affix_v2 = "AttackDelta"
+        else:
+            # For parts 3-6, assume optimal main affix is chosen (highest weight main affix)
+            ordered_main_affixes = sorted(v["main"][part].items(), key=lambda x: x[1], reverse=True)
+            if ordered_main_affixes:
+                best_main_affix = ordered_main_affixes[0][0]
+                if best_main_affix in v["weight"]:
+                    excluded_sub_affix_v2 = best_main_affix
+
+        # Select top 4 valid sub affixes for maxV2
+        valid_sub_affixes_v2 = []
         for af in sub_affix_weight_ordered:
-            if af[0] != ordered_i[0][0]:
-                sub_affix_weight_this.append(af)
-        max_score += 1.2 * (
-            sub_affix_weight_this[0][1] * 6
-            + sub_affix_weight_this[1][1]
-            + sub_affix_weight_this[2][1]
-            + sub_affix_weight_this[3][1]
+            if af[0] != excluded_sub_affix_v2:
+                valid_sub_affixes_v2.append(af)
+            if len(valid_sub_affixes_v2) == 4:
+                break
+        
+        while len(valid_sub_affixes_v2) < 4:
+            valid_sub_affixes_v2.append((None, 0))
+
+        # Calculate maxV2 (new algorithm with difficulty-adjusted counts)
+        # Head/Hand (1, 2): Low difficulty, assume 4 initial lines (9 counts total). 
+        # Distribution: 6, 1, 1, 1
+        # Body/Feet/Sphere/Rope (3, 4, 5, 6): High difficulty, assume 3 initial lines (8 counts total).
+        # Distribution: 5, 1, 1, 1
+        if part in ["1", "2"]:
+            multipliers_v2 = [6, 1, 1, 1]
+        else:
+            multipliers_v2 = [5, 1, 1, 1]
+            
+        maxV2_score = (
+            valid_sub_affixes_v2[0][1] * multipliers_v2[0]
+            + valid_sub_affixes_v2[1][1] * multipliers_v2[1]
+            + valid_sub_affixes_v2[2][1] * multipliers_v2[2]
+            + valid_sub_affixes_v2[3][1] * multipliers_v2[3]
         )
-    # max 4+5 sub affix
-    # origin 4 is different from each other
-    max_score += (
-        2
-        * 1.2
-        * (
-            sub_affix_weight_ordered[0][1] * 6
-            + sub_affix_weight_ordered[1][1]
-            + sub_affix_weight_ordered[2][1]
-            + sub_affix_weight_ordered[3][1]
+        maxV2_scores[part] = round(maxV2_score, 3)
+        
+        # Calculate legacy max (old algorithm: all parts use 6 counts distribution)
+        # Legacy algorithm logic:
+        # - Parts 1, 2: Use full weight list (no exclusion)
+        # - Parts 3-6: Exclude main affix if it exists as sub affix
+        # - All parts use (6, 1, 1, 1) distribution
+        excluded_sub_affix_legacy = None
+        
+        if part in ["3", "4", "5", "6"]:
+            # For parts 3-6, exclude main affix (same as maxV2)
+            ordered_main_affixes = sorted(v["main"][part].items(), key=lambda x: x[1], reverse=True)
+            if ordered_main_affixes:
+                best_main_affix = ordered_main_affixes[0][0]
+                if best_main_affix in v["weight"]:
+                    excluded_sub_affix_legacy = best_main_affix
+        # Parts 1, 2: no exclusion in legacy algorithm
+        
+        # Select top 4 valid sub affixes for legacy max
+        valid_sub_affixes_legacy = []
+        for af in sub_affix_weight_ordered:
+            if af[0] != excluded_sub_affix_legacy:
+                valid_sub_affixes_legacy.append(af)
+            if len(valid_sub_affixes_legacy) == 4:
+                break
+        
+        while len(valid_sub_affixes_legacy) < 4:
+            valid_sub_affixes_legacy.append((None, 0))
+        
+        # Legacy algorithm: all parts use (6, 1, 1, 1) distribution
+        # Note: Legacy algorithm also uses 1.2 coefficient for backward compatibility
+        multipliers_legacy = [6, 1, 1, 1]
+        legacy_max_score = 1.2 * (
+            valid_sub_affixes_legacy[0][1] * multipliers_legacy[0]
+            + valid_sub_affixes_legacy[1][1] * multipliers_legacy[1]
+            + valid_sub_affixes_legacy[2][1] * multipliers_legacy[2]
+            + valid_sub_affixes_legacy[3][1] * multipliers_legacy[3]
         )
-    )
-    score_map[k]["max"] = max_score / 6.0
-    if len(str(score_map[k]["max"])) > 6:
-        score_map[k]["max"] = round(score_map[k]["max"], 3)
+        legacy_max_scores[part] = legacy_max_score
+    
+    # Store maxV2 scores
+    score_map[k]["maxV2"] = maxV2_scores
+    
+    # Calculate legacy max as average of all parts (old algorithm)
+    legacy_avg_max = sum(legacy_max_scores.values()) / 6.0
+    if len(str(legacy_avg_max)) > 6:
+        legacy_avg_max = round(legacy_avg_max, 3)
+    score_map[k]["max"] = legacy_avg_max
 
 
 score_map = {k: score_map[k] for k in sorted(score_map.keys())}
