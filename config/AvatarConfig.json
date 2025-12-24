@@ -4952,6 +4952,77 @@
     ]
   },
   {
+    "AvatarID": 1321,
+    "AvatarName": {
+      "Hash": 16283352174817039417
+    },
+    "AvatarFullName": {
+      "Hash": 8110034527426232864
+    },
+    "AdventurePlayerID": 1321,
+    "AvatarVOTag": "dahlia",
+    "Rarity": "CombatPowerAvatarRarityType5",
+    "JsonPath": "Config/ConfigCharacter/Avatar/Avatar_Constance_00_Config.json",
+    "DamageType": "Fire",
+    "SPNeed": {
+      "Value": 130
+    },
+    "ExpGroup": 1,
+    "MaxPromotion": 6,
+    "MaxRank": 6,
+    "RankIDList": [
+      132101,
+      132102,
+      132103,
+      132104,
+      132105,
+      132106
+    ],
+    "SkillList": [
+      132101,
+      132102,
+      132103,
+      132104,
+      132106,
+      132107
+    ],
+    "AvatarBaseType": "Warlock",
+    "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Constance_00/Avatar_Constance_00.prefab",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1321.png",
+    "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1321.png",
+    "AvatarMiniIconPath": "SpriteOutput/AvatarMiniIcon/1321.png",
+    "AvatarGachaResultImgPath": "SpriteOutput/AvatarDrawCardResult/1321.png",
+    "ActionAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1321B.png",
+    "UltraSkillCutInPrefabPath": "UI/Battle/UltraSkillCutIn/Avatar/UltraSkillCutIn_1321.prefab",
+    "UIAvatarModelPath": "Characters/CharacterPrefabs/Manikin/Avatar/Constance_00/Manikin_Avatar_Lady_Constance_00.prefab",
+    "ManikinJsonPath": "Config/ConfigCharacter/Manikin/Avatar/Manikin_Avatar_Constance_00_Config.json",
+    "AIPath": "Config/ConfigAI/Avatar_ComplexSkilll_AutoFight_AI.json",
+    "SkilltreePrefabPath": "UI/Avatar/Widget/WarlockSkillTreeGroup.prefab",
+    "DamageTypeResistance": [],
+    "Release": true,
+    "SideAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1321.png",
+    "WaitingAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1321.png",
+    "AvatarCutinImgPath": "SpriteOutput/AvatarCutinFigures/1321.png",
+    "AvatarCutinBgImgPath": "SpriteOutput/AvatarCutinBg/1321.png",
+    "AvatarCutinFrontImgPath": "SpriteOutput/AvatarDrawCard/1321.png",
+    "AvatarDropOffset": [
+      -12.7,
+      -20.74,
+      0.63,
+      -12.7,
+      -20.74,
+      0.63,
+      -12.7,
+      -20.74,
+      0.63
+    ],
+    "AvatarTrialOffset": [],
+    "PlayerCardOffset": [],
+    "AssistOffset": [],
+    "AssistBgOffset": [],
+    "AvatarSelfShowOffset": []
+  },
+  {
     "AvatarID": 1401,
     "AvatarName": {
       "Hash": 4559632095226063367

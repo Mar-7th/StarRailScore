@@ -4468,6 +4468,60 @@
     }
   },
   {
+    "AvatarID": 1321,
+    "Set4IDList": [
+      119,
+      111,
+      118
+    ],
+    "Set2IDList": [
+      316,
+      308,
+      307
+    ],
+    "PropertyList3": [
+      "HPAddedRatio",
+      "DefenceAddedRatio"
+    ],
+    "PropertyList4": [
+      "SpeedDelta"
+    ],
+    "PropertyList5": [
+      "HPAddedRatio",
+      "DefenceAddedRatio"
+    ],
+    "PropertyList6": [
+      "BreakDamageAddedRatioBase",
+      "SPRatioBase"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "HPAddedRatio"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "HPAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "BreakDamageAddedRatioBase"
+      }
+    ],
+    "SubAffixPropertyList": [
+      "BreakDamageAddedRatioBase",
+      "SpeedDelta"
+    ],
+    "ScoreRankList": [
+      202,
+      146
+    ]
+  },
+  {
     "AvatarID": 1015,
     "Set4IDList": [
       108,
