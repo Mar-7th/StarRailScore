@@ -6053,6 +6053,153 @@
     "AvatarSelfShowOffset": []
   },
   {
+    "AvatarID": 1501,
+    "AvatarName": {
+      "Hash": 17862078353219696025
+    },
+    "AvatarFullName": {
+      "Hash": 15354342536879577356
+    },
+    "AdventurePlayerID": 1501,
+    "AvatarVOTag": "Sparxie",
+    "Rarity": "CombatPowerAvatarRarityType5",
+    "JsonPath": "Config/ConfigCharacter/Avatar/Avatar_Sparxie_00_Config.json",
+    "DamageType": "Fire",
+    "SPNeed": {
+      "Value": 160
+    },
+    "ExpGroup": 1,
+    "MaxPromotion": 6,
+    "MaxRank": 6,
+    "RankIDList": [
+      150101,
+      150102,
+      150103,
+      150104,
+      150105,
+      150106
+    ],
+    "SkillList": [
+      150101,
+      150102,
+      150103,
+      150104,
+      150106,
+      150107,
+      150108,
+      150109,
+      150110,
+      150120
+    ],
+    "AvatarBaseType": "Elation",
+    "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Sparxie_00/Avatar_Sparxie_00.prefab",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1501.png",
+    "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1501.png",
+    "AvatarMiniIconPath": "SpriteOutput/AvatarMiniIcon/1501.png",
+    "AvatarGachaResultImgPath": "SpriteOutput/AvatarDrawCardResult/1501.png",
+    "ActionAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1501B.png",
+    "UltraSkillCutInPrefabPath": "UI/Battle/UltraSkillCutIn/Avatar/UltraSkillCutIn_1501.prefab",
+    "UIAvatarModelPath": "Characters/CharacterPrefabs/Manikin/Avatar/Sparxie_00/Manikin_Avatar_Girl_Sparxie_00.prefab",
+    "ManikinJsonPath": "Config/ConfigCharacter/Manikin/Avatar/Manikin_Avatar_Sparxie_00_Config.json",
+    "AIPath": "Config/ConfigAI/Avatar_ComplexSkilll_AutoFight_AI.json",
+    "SkilltreePrefabPath": "UI/Avatar/Widget/JoySkillTreeGroup.prefab",
+    "DamageTypeResistance": [],
+    "Release": true,
+    "SideAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1501.png",
+    "WaitingAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1501.png",
+    "AvatarCutinImgPath": "SpriteOutput/AvatarCutinFigures/1501.png",
+    "AvatarCutinBgImgPath": "SpriteOutput/AvatarCutinBg/1501.png",
+    "AvatarCutinFrontImgPath": "SpriteOutput/AvatarDrawCard/1501.png",
+    "AvatarDropOffset": [
+      51.6,
+      60.6,
+      0.58,
+      51.6,
+      60.6,
+      0.58,
+      51.6,
+      60.6,
+      0.58
+    ],
+    "AvatarTrialOffset": [],
+    "PlayerCardOffset": [],
+    "AssistOffset": [],
+    "AssistBgOffset": [],
+    "AvatarSelfShowOffset": []
+  },
+  {
+    "AvatarID": 1502,
+    "AvatarName": {
+      "Hash": 5676363387127417629
+    },
+    "AvatarFullName": {
+      "Hash": 11478089599346980340
+    },
+    "AdventurePlayerID": 1502,
+    "AvatarVOTag": "yaoguang",
+    "Rarity": "CombatPowerAvatarRarityType5",
+    "JsonPath": "Config/ConfigCharacter/Avatar/Avatar_YaoGuang_00_Config.json",
+    "DamageType": "Physical",
+    "SPNeed": {
+      "Value": 180
+    },
+    "ExpGroup": 1,
+    "MaxPromotion": 6,
+    "MaxRank": 6,
+    "RankIDList": [
+      150201,
+      150202,
+      150203,
+      150204,
+      150205,
+      150206
+    ],
+    "SkillList": [
+      150201,
+      150202,
+      150203,
+      150204,
+      150206,
+      150207,
+      150220
+    ],
+    "AvatarBaseType": "Elation",
+    "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/YaoGuang_00/Avatar_YaoGuang_00.prefab",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1502.png",
+    "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1502.png",
+    "AvatarMiniIconPath": "SpriteOutput/AvatarMiniIcon/1502.png",
+    "AvatarGachaResultImgPath": "SpriteOutput/AvatarDrawCardResult/1502.png",
+    "ActionAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1502B.png",
+    "UltraSkillCutInPrefabPath": "UI/Battle/UltraSkillCutIn/Avatar/UltraSkillCutIn_1502.prefab",
+    "UIAvatarModelPath": "Characters/CharacterPrefabs/Manikin/Avatar/YaoGuang_00/Manikin_Avatar_Maid_YaoGuang_00.prefab",
+    "ManikinJsonPath": "Config/ConfigCharacter/Manikin/Avatar/Manikin_Avatar_YaoGuang_00_Config.json",
+    "AIPath": "Config/ConfigAI/Avatar_ComplexSkilll_AutoFight_AI.json",
+    "SkilltreePrefabPath": "UI/Avatar/Widget/JoySkillTreeGroup.prefab",
+    "DamageTypeResistance": [],
+    "Release": true,
+    "SideAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1502.png",
+    "WaitingAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1502.png",
+    "AvatarCutinImgPath": "SpriteOutput/AvatarCutinFigures/1502.png",
+    "AvatarCutinBgImgPath": "SpriteOutput/AvatarCutinBg/1502.png",
+    "AvatarCutinFrontImgPath": "SpriteOutput/AvatarDrawCard/1502.png",
+    "AvatarDropOffset": [
+      43,
+      28,
+      0.66,
+      43,
+      28,
+      0.66,
+      43,
+      28,
+      0.66
+    ],
+    "AvatarTrialOffset": [],
+    "PlayerCardOffset": [],
+    "AssistOffset": [],
+    "AssistBgOffset": [],
+    "AvatarSelfShowOffset": []
+  },
+  {
     "AvatarID": 8001,
     "AvatarName": {
       "Hash": 15351791685587679468

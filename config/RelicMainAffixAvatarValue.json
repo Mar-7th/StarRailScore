@@ -898,6 +898,28 @@
     "DamageAddedRatio": 0.6
   },
   {
+    "AvatarID": 1501,
+    "Attack": 0.8,
+    "HP": 0.1,
+    "Defence": 0.1,
+    "Speed": 0.4,
+    "CriticalChance": 1,
+    "CriticalDamage": 1,
+    "BreakDamage": 0.1,
+    "SPRatio": 1
+  },
+  {
+    "AvatarID": 1502,
+    "Attack": 0.1,
+    "HP": 0.1,
+    "Defence": 0.1,
+    "Speed": 1,
+    "CriticalChance": 0.8,
+    "CriticalDamage": 0.8,
+    "BreakDamage": 0.1,
+    "SPRatio": 1
+  },
+  {
     "AvatarID": 8001,
     "Attack": 1,
     "HP": 0.1,

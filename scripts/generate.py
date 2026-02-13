@@ -279,6 +279,7 @@ path_map = {
     "Knight": "Preservation",
     "Priest": "Abundance",
     "Memory": "Remembrance",
+    "Elation": "Elation",
 }
 
 for k, v in score_map.items():
