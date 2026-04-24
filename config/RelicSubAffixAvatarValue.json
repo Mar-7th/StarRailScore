@@ -42,7 +42,7 @@
     "Speed": 1,
     "CriticalChance": 1,
     "CriticalDamage": 1,
-    "StatusProbability": 0.4,
+    "StatusProbability": 0.8,
     "StatusResistance": 0.1,
     "BreakDamage": 0.1
   },
@@ -854,6 +854,28 @@
     "BreakDamage": 0.1
   },
   {
+    "AvatarID": 1505,
+    "Attack": 0.4,
+    "HP": 0.1,
+    "Defence": 0.1,
+    "Speed": 1,
+    "CriticalChance": 1,
+    "CriticalDamage": 1,
+    "StatusResistance": 0.1,
+    "BreakDamage": 0.1
+  },
+  {
+    "AvatarID": 1506,
+    "Attack": 0.1,
+    "HP": 0.2,
+    "Defence": 0.2,
+    "Speed": 1,
+    "CriticalChance": 1,
+    "CriticalDamage": 1,
+    "StatusResistance": 0.1,
+    "BreakDamage": 0.1
+  },
+  {
     "AvatarID": 8001,
     "Attack": 1,
     "HP": 0.1,
@@ -940,6 +962,28 @@
     "Defence": 0.1,
     "Speed": 1,
     "CriticalDamage": 1,
+    "StatusResistance": 0.1,
+    "BreakDamage": 0.1
+  },
+  {
+    "AvatarID": 8009,
+    "Attack": 0.8,
+    "HP": 0.1,
+    "Defence": 0.1,
+    "Speed": 1,
+    "CriticalChance": 0.6,
+    "CriticalDamage": 0.6,
+    "StatusResistance": 0.1,
+    "BreakDamage": 0.1
+  },
+  {
+    "AvatarID": 8010,
+    "Attack": 0.8,
+    "HP": 0.1,
+    "Defence": 0.1,
+    "Speed": 1,
+    "CriticalChance": 0.6,
+    "CriticalDamage": 0.6,
     "StatusResistance": 0.1,
     "BreakDamage": 0.1
   }

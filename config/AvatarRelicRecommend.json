@@ -169,61 +169,6 @@
     }
   },
   {
-    "AvatarID": 1004,
-    "Set4IDList": [
-      112,
-      122,
-      111
-    ],
-    "Set2IDList": [
-      309,
-      301,
-      303
-    ],
-    "PropertyList3": [
-      "CriticalChanceBase",
-      "CriticalDamageBase"
-    ],
-    "PropertyList4": [
-      "SpeedDelta"
-    ],
-    "PropertyList5": [
-      "ImaginaryAddedRatio"
-    ],
-    "PropertyList6": [
-      "AttackAddedRatio",
-      "SPRatioBase"
-    ],
-    "PropertyList": [
-      {
-        "RelicType": "BODY",
-        "PropertyType": "CriticalChanceBase"
-      },
-      {
-        "RelicType": "FOOT",
-        "PropertyType": "SpeedDelta"
-      },
-      {
-        "RelicType": "NECK",
-        "PropertyType": "ImaginaryAddedRatio"
-      },
-      {
-        "RelicType": "OBJECT",
-        "PropertyType": "AttackAddedRatio"
-      }
-    ],
-    "SubAffixPropertyList": [
-      "CriticalChanceBase",
-      "CriticalDamageBase",
-      "AttackAddedRatio",
-      "SpeedDelta"
-    ],
-    "ScoreRankList": [
-      351,
-      296
-    ]
-  },
-  {
     "AvatarID": 1005,
     "Set4IDList": [
       116,
@@ -4682,6 +4627,292 @@
     "ScoreRankList": [
       346,
       288
+    ]
+  },
+  {
+    "AvatarID": 1505,
+    "Set4IDList": [
+      129,
+      126,
+      105
+    ],
+    "Set2IDList": [
+      325,
+      313,
+      301
+    ],
+    "PropertyList3": [
+      "CriticalChanceBase",
+      "CriticalDamageBase"
+    ],
+    "PropertyList4": [
+      "AttackAddedRatio",
+      "SpeedDelta"
+    ],
+    "PropertyList5": [
+      "AttackAddedRatio",
+      "PhysicalAddedRatio"
+    ],
+    "PropertyList6": [
+      "SPRatioBase",
+      "AttackAddedRatio"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalChanceBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "AttackAddedRatio"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "AttackAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "SPRatioBase"
+      }
+    ],
+    "SubAffixPropertyList": [
+      "CriticalChanceBase",
+      "CriticalDamageBase",
+      "SpeedDelta",
+      "AttackAddedRatio"
+    ],
+    "ScoreRankList": [
+      246,
+      181
+    ]
+  },
+  {
+    "AvatarID": 1506,
+    "Set4IDList": [
+      129,
+      126,
+      112
+    ],
+    "Set2IDList": [
+      325,
+      313,
+      324
+    ],
+    "PropertyList3": [
+      "CriticalChanceBase",
+      "CriticalDamageBase"
+    ],
+    "PropertyList4": [
+      "SpeedDelta"
+    ],
+    "PropertyList5": [
+      "HPAddedRatio",
+      "DefenceAddedRatio"
+    ],
+    "PropertyList6": [
+      "DefenceAddedRatio",
+      "HPAddedRatio"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalChanceBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "HPAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "DefenceAddedRatio"
+      }
+    ],
+    "SubAffixPropertyList": [
+      "SpeedDelta",
+      "CriticalChanceBase",
+      "CriticalDamageBase"
+    ],
+    "ScoreRankList": [
+      240,
+      184
+    ]
+  },
+  {
+    "AvatarID": 8009,
+    "Set4IDList": [
+      130,
+      129,
+      102
+    ],
+    "Set2IDList": [
+      317,
+      325,
+      301
+    ],
+    "PropertyList3": [
+      "CriticalDamageBase",
+      "CriticalChanceBase"
+    ],
+    "PropertyList4": [
+      "SpeedDelta",
+      "AttackAddedRatio"
+    ],
+    "PropertyList5": [
+      "AttackAddedRatio"
+    ],
+    "PropertyList6": [
+      "SPRatioBase",
+      "AttackAddedRatio"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalDamageBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "AttackAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "SPRatioBase"
+      }
+    ],
+    "SubAffixPropertyList": [
+      "CriticalChanceBase",
+      "CriticalDamageBase",
+      "SpeedDelta",
+      "AttackAddedRatio"
+    ],
+    "ScoreRankList": [
+      264,
+      206
+    ],
+    "LocalCriticalChance": {
+      "Value": 0.15
+    }
+  },
+  {
+    "AvatarID": 8010,
+    "Set4IDList": [
+      130,
+      129,
+      102
+    ],
+    "Set2IDList": [
+      317,
+      325,
+      301
+    ],
+    "PropertyList3": [
+      "CriticalDamageBase",
+      "CriticalChanceBase"
+    ],
+    "PropertyList4": [
+      "SpeedDelta",
+      "AttackAddedRatio"
+    ],
+    "PropertyList5": [
+      "AttackAddedRatio"
+    ],
+    "PropertyList6": [
+      "SPRatioBase",
+      "AttackAddedRatio"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalDamageBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "AttackAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "SPRatioBase"
+      }
+    ],
+    "SubAffixPropertyList": [
+      "CriticalChanceBase",
+      "CriticalDamageBase",
+      "SpeedDelta",
+      "AttackAddedRatio"
+    ],
+    "ScoreRankList": [
+      264,
+      206
+    ],
+    "LocalCriticalChance": {
+      "Value": 0.15
+    }
+  },
+  {
+    "AvatarID": 1004,
+    "Set4IDList": [
+      117,
+      112,
+      122
+    ],
+    "Set2IDList": [
+      309,
+      301,
+      303
+    ],
+    "PropertyList3": [
+      "CriticalChanceBase",
+      "CriticalDamageBase"
+    ],
+    "PropertyList4": [
+      "SpeedDelta"
+    ],
+    "PropertyList5": [
+      "ImaginaryAddedRatio"
+    ],
+    "PropertyList6": [
+      "AttackAddedRatio",
+      "SPRatioBase"
+    ],
+    "PropertyList": [
+      {
+        "RelicType": "BODY",
+        "PropertyType": "CriticalChanceBase"
+      },
+      {
+        "RelicType": "FOOT",
+        "PropertyType": "SpeedDelta"
+      },
+      {
+        "RelicType": "NECK",
+        "PropertyType": "ImaginaryAddedRatio"
+      },
+      {
+        "RelicType": "OBJECT",
+        "PropertyType": "AttackAddedRatio"
+      }
+    ],
+    "SubAffixPropertyList": [
+      "CriticalChanceBase",
+      "CriticalDamageBase",
+      "AttackAddedRatio",
+      "SpeedDelta",
+      "StatusProbabilityBase"
+    ],
+    "ScoreRankList": [
+      358,
+      304
     ]
   },
   {
