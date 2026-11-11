@@ -35,6 +35,7 @@
       100107
     ],
     "AvatarBaseType": "Knight",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Mar_7th_00/Avatar_Mar_7th_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1001.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1001.png",
@@ -125,6 +126,7 @@
       100207
     ],
     "AvatarBaseType": "Rogue",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/DanHeng_00/Avatar_DanHeng_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1002.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1002.png",
@@ -215,6 +217,7 @@
       100307
     ],
     "AvatarBaseType": "Mage",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Himeko_00/Avatar_Himeko_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1003.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1003.png",
@@ -309,6 +312,7 @@
       100407
     ],
     "AvatarBaseType": "Warlock",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Welt_00/Avatar_Welt_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1004.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1004.png",
@@ -399,6 +403,7 @@
       100507
     ],
     "AvatarBaseType": "Warlock",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Kafka_00/Avatar_Kafka_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1005.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1005.png",
@@ -485,6 +490,7 @@
       100607
     ],
     "AvatarBaseType": "Warlock",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Silwolf_00/Avatar_Silwolf_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1006.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1006.png",
@@ -575,6 +581,7 @@
       100807
     ],
     "AvatarBaseType": "Warrior",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Arlan_00/Avatar_Arlan_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1008.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1008.png",
@@ -665,6 +672,7 @@
       100907
     ],
     "AvatarBaseType": "Shaman",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Asta_00/Avatar_Asta_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1009.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1009.png",
@@ -755,6 +763,7 @@
       101307
     ],
     "AvatarBaseType": "Mage",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Herta_00/Avatar_Herta_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1013.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1013.png",
@@ -845,6 +854,7 @@
       110107
     ],
     "AvatarBaseType": "Shaman",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Bronya_00/Avatar_Bronya_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1101.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1101.png",
@@ -935,6 +945,7 @@
       110207
     ],
     "AvatarBaseType": "Rogue",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Seele_00/Avatar_Seele_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1102.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1102.png",
@@ -1025,6 +1036,7 @@
       110307
     ],
     "AvatarBaseType": "Mage",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Serval_00/Avatar_Serval_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1103.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1103.png",
@@ -1115,6 +1127,7 @@
       110407
     ],
     "AvatarBaseType": "Knight",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Gepard_00/Avatar_Gepard_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1104.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1104.png",
@@ -1205,6 +1218,7 @@
       110507
     ],
     "AvatarBaseType": "Priest",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Natasha_00/Avatar_Natasha_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1105.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1105.png",
@@ -1295,6 +1309,7 @@
       110607
     ],
     "AvatarBaseType": "Warlock",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Pela_00/Avatar_Pela_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1106.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1106.png",
@@ -1385,6 +1400,7 @@
       110707
     ],
     "AvatarBaseType": "Warrior",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Klara_00/Avatar_Klara_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1107.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1107.png",
@@ -1475,6 +1491,7 @@
       110807
     ],
     "AvatarBaseType": "Warlock",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Sampo_00/Avatar_Sampo_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1108.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1108.png",
@@ -1566,6 +1583,7 @@
       110909
     ],
     "AvatarBaseType": "Warrior",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Hook_00/Avatar_Hook_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1109.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1109.png",
@@ -1656,6 +1674,7 @@
       111007
     ],
     "AvatarBaseType": "Priest",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Lynx_00/Avatar_Lynx_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1110.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1110.png",
@@ -1739,6 +1758,7 @@
       111108
     ],
     "AvatarBaseType": "Warlock",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Luka_00/Avatar_Luka_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1111.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1111.png",
@@ -1822,6 +1842,7 @@
       111207
     ],
     "AvatarBaseType": "Rogue",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Topaz_00/Avatar_Topaz_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1112.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1112.png",
@@ -1898,6 +1919,7 @@
       120108
     ],
     "AvatarBaseType": "Mage",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Qingque_00/Avatar_Qingque_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1201.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1201.png",
@@ -1980,6 +2002,7 @@
       120207
     ],
     "AvatarBaseType": "Shaman",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Tingyun_00/Avatar_Tingyun_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1202.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1202.png",
@@ -2066,6 +2089,7 @@
       120307
     ],
     "AvatarBaseType": "Priest",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Luocha_00/Avatar_Luocha_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1203.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1203.png",
@@ -2152,6 +2176,7 @@
       120407
     ],
     "AvatarBaseType": "Mage",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/JingYuan_00/Avatar_JingYuan_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1204.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1204.png",
@@ -2243,6 +2268,7 @@
       120508
     ],
     "AvatarBaseType": "Warrior",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Ren_00/Avatar_Ren_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1205.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1205.png",
@@ -2329,6 +2355,7 @@
       120607
     ],
     "AvatarBaseType": "Rogue",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Sushang_00/Avatar_Sushang_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1206.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1206.png",
@@ -2411,6 +2438,7 @@
       120707
     ],
     "AvatarBaseType": "Shaman",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Yukong_00/Avatar_Yukong_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1207.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1207.png",
@@ -2497,6 +2525,7 @@
       120807
     ],
     "AvatarBaseType": "Knight",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/FuXuan_00/Avatar_FuXuan_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1208.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1208.png",
@@ -2579,6 +2608,7 @@
       120907
     ],
     "AvatarBaseType": "Rogue",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Yanqing_00/Avatar_Yanqing_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1209.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1209.png",
@@ -2654,6 +2684,7 @@
       121007
     ],
     "AvatarBaseType": "Warlock",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Guinaifen_00/Avatar_Guinaifen_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1210.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1210.png",
@@ -2737,6 +2768,7 @@
       121107
     ],
     "AvatarBaseType": "Priest",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Bailu_00/Avatar_Bailu_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1211.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1211.png",
@@ -2821,6 +2853,7 @@
       121209
     ],
     "AvatarBaseType": "Warrior",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Jingliu_00/Avatar_Jingliu_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1212.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1212.png",
@@ -2915,6 +2948,7 @@
       121312
     ],
     "AvatarBaseType": "Warrior",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/DanHengIL_00/Avatar_DanHengIL_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1213.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1213.png",
@@ -3005,6 +3039,7 @@
       121407
     ],
     "AvatarBaseType": "Warrior",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Xueyi_00/Avatar_Xueyi_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1214.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1214.png",
@@ -3083,6 +3118,7 @@
       121507
     ],
     "AvatarBaseType": "Shaman",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Hanya_00/Avatar_Hanya_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1215.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1215.png",
@@ -3165,6 +3201,7 @@
       121707
     ],
     "AvatarBaseType": "Priest",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Huohuo_00/Avatar_Huohuo_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1217.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1217.png",
@@ -3243,6 +3280,7 @@
       121807
     ],
     "AvatarBaseType": "Warlock",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Jiaoqiu_00/Avatar_Jiaoqiu_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1218.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1218.png",
@@ -3320,6 +3358,7 @@
       122014
     ],
     "AvatarBaseType": "Rogue",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Feixiao_00/Avatar_Feixiao_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1220.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1220.png",
@@ -3406,6 +3445,7 @@
       122107
     ],
     "AvatarBaseType": "Warrior",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Yunli_00/Avatar_Yunli_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1221.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1221.png",
@@ -3477,6 +3517,7 @@
       122207
     ],
     "AvatarBaseType": "Priest",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Lingsha_00/Avatar_Lingsha_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1222.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1222.png",
@@ -3551,6 +3592,7 @@
       122307
     ],
     "AvatarBaseType": "Rogue",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Moze_00/Avatar_Moze_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1223.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1223.png",
@@ -3623,6 +3665,7 @@
       122408
     ],
     "AvatarBaseType": "Rogue",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Mar_7th_10/Avatar_Mar_7th_10.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1224.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1224.png",
@@ -3711,6 +3754,7 @@
       122508
     ],
     "AvatarBaseType": "Warlock",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Fugue_00/Avatar_Fugue_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1225.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1225.png",
@@ -3795,6 +3839,7 @@
       130108
     ],
     "AvatarBaseType": "Priest",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Gallagher_00/Avatar_Gallagher_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1301.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1301.png",
@@ -3867,6 +3912,7 @@
       130214
     ],
     "AvatarBaseType": "Mage",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Argenti_00/Avatar_Argenti_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1302.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1302.png",
@@ -3945,6 +3991,7 @@
       130307
     ],
     "AvatarBaseType": "Shaman",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/RuanMei_00/Avatar_RuanMei_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1303.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1303.png",
@@ -4023,6 +4070,7 @@
       130407
     ],
     "AvatarBaseType": "Knight",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Aventurine_00/Avatar_Aventurine_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1304.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1304.png",
@@ -4094,6 +4142,7 @@
       130507
     ],
     "AvatarBaseType": "Rogue",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Dr_Ratio_00/Avatar_Dr_Ratio_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1305.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1305.png",
@@ -4184,6 +4233,7 @@
       130607
     ],
     "AvatarBaseType": "Shaman",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Sparkle_00/Avatar_Sparkle_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1306.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1306.png",
@@ -4255,6 +4305,7 @@
       130707
     ],
     "AvatarBaseType": "Warlock",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/BlackSwan_00/Avatar_BlackSwan_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1307.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1307.png",
@@ -4333,6 +4384,7 @@
       130817
     ],
     "AvatarBaseType": "Warlock",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Acheron_00/Avatar_Acheron_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1308.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1308.png",
@@ -4407,6 +4459,7 @@
       130907
     ],
     "AvatarBaseType": "Shaman",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Robin_00/Avatar_Robin_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1309.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1309.png",
@@ -4499,6 +4552,7 @@
       131009
     ],
     "AvatarBaseType": "Warrior",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Sam_00/Avatar_Sam_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1310.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1310.png",
@@ -4570,6 +4624,7 @@
       131207
     ],
     "AvatarBaseType": "Warrior",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Misha_00/Avatar_Misha_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1312.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1312.png",
@@ -4641,6 +4696,7 @@
       131307
     ],
     "AvatarBaseType": "Shaman",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Sunday_10/Avatar_Sunday_10.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1313.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1313.png",
@@ -4731,6 +4787,7 @@
       131407
     ],
     "AvatarBaseType": "Mage",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Jade_00/Avatar_Jade_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1314.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
@@ -4803,6 +4860,7 @@
       131508
     ],
     "AvatarBaseType": "Rogue",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Boothill_00/Avatar_Boothill_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1315.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1315.png",
@@ -4897,6 +4955,7 @@
       131718
     ],
     "AvatarBaseType": "Mage",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Rappa_00/Avatar_Rappa_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1317.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1317.png",
@@ -4987,6 +5046,7 @@
       132107
     ],
     "AvatarBaseType": "Warlock",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Constance_00/Avatar_Constance_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1321.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1321.png",
@@ -5059,6 +5119,7 @@
       140109
     ],
     "AvatarBaseType": "Mage",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/TheHerta_00/Avatar_TheHerta_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1401.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1401.png",
@@ -5151,6 +5212,7 @@
       140209
     ],
     "AvatarBaseType": "Memory",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Aglaea_00/Avatar_Aglaea_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1402.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1402.png",
@@ -5222,6 +5284,7 @@
       140307
     ],
     "AvatarBaseType": "Shaman",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Tribbie_00/Avatar_Tribbie_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1403.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1403.png",
@@ -5295,6 +5358,7 @@
       140411
     ],
     "AvatarBaseType": "Warrior",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Mydeimos_00/Avatar_Mydeimos_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1404.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1404.png",
@@ -5366,6 +5430,7 @@
       140507
     ],
     "AvatarBaseType": "Mage",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Anaxa_00/Avatar_Anaxa_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1405.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1405.png",
@@ -5440,6 +5505,7 @@
       140607
     ],
     "AvatarBaseType": "Warlock",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Cipher_00/Avatar_Cipher_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1406.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1406.png",
@@ -5509,6 +5575,7 @@
       140709
     ],
     "AvatarBaseType": "Memory",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Castorice_00/Avatar_Castorice_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1407.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1407.png",
@@ -5587,6 +5654,7 @@
       140811
     ],
     "AvatarBaseType": "Warrior",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Phainon_00/Avatar_Phainon_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1408.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1408.png",
@@ -5658,6 +5726,7 @@
       140907
     ],
     "AvatarBaseType": "Memory",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Hyacine_00/Avatar_Hyacine_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1409.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1409.png",
@@ -5729,6 +5798,7 @@
       141007
     ],
     "AvatarBaseType": "Warlock",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Harscyline_00/Avatar_Harscyline_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1410.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1410.png",
@@ -5800,6 +5870,7 @@
       141207
     ],
     "AvatarBaseType": "Shaman",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Cerydra_00/Avatar_Cerydra_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1412.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1412.png",
@@ -5872,6 +5943,7 @@
       141309
     ],
     "AvatarBaseType": "Memory",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Evernight_00/Avatar_Evernight_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1413.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1413.png",
@@ -5943,6 +6015,7 @@
       141407
     ],
     "AvatarBaseType": "Knight",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/DanHengPT_00/Avatar_DanHengPT_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1414.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1414.png",
@@ -6017,6 +6090,7 @@
       141519
     ],
     "AvatarBaseType": "Memory",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Cyrene_00/Avatar_Cyrene_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1415.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1415.png",
@@ -6089,9 +6163,11 @@
       150108,
       150109,
       150110,
-      150120
+      150120,
+      150129
     ],
     "AvatarBaseType": "Elation",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Sparxie_00/Avatar_Sparxie_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1501.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1501.png",
@@ -6161,9 +6237,11 @@
       150204,
       150206,
       150207,
-      150220
+      150220,
+      150229
     ],
     "AvatarBaseType": "Elation",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/YaoGuang_00/Avatar_YaoGuang_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1502.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1502.png",
@@ -6235,9 +6313,11 @@
       150307,
       150308,
       150310,
-      150320
+      150320,
+      150329
     ],
     "AvatarBaseType": "Elation",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Pearl_00/Avatar_Pearl_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1503.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1503.png",
@@ -6312,6 +6392,7 @@
       150407
     ],
     "AvatarBaseType": "Rogue",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Ashveil_00/Avatar_Ashveil_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1504.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1504.png",
@@ -6381,9 +6462,11 @@
       150504,
       150506,
       150507,
-      150520
+      150520,
+      150529
     ],
     "AvatarBaseType": "Elation",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Evanescia_00/Avatar_Evanescia_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1505.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1505.png",
@@ -6458,9 +6541,11 @@
       150612,
       150618,
       150620,
-      150621
+      150621,
+      150629
     ],
     "AvatarBaseType": "Elation",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/SilverWolf999_00/Avatar_SilverWolf999_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1506.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1506.png",
@@ -6538,6 +6623,7 @@
       150714
     ],
     "AvatarBaseType": "Warlock",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/MortenaxBlade_00/Avatar_MortenaxBlade_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1507.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1507.png",
@@ -6618,6 +6704,7 @@
       151026
     ],
     "AvatarBaseType": "Mage",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/HimekoNova_00/Avatar_HimekoNova_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1510.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1510.png",
@@ -6677,6 +6764,81 @@
     ]
   },
   {
+    "AvatarID": 1511,
+    "AvatarName": {
+      "Hash": 14922431951980054096
+    },
+    "AvatarFullName": {
+      "Hash": 15518082392812178012
+    },
+    "AdventurePlayerID": 1511,
+    "AvatarVOTag": "nihilux",
+    "Rarity": "CombatPowerAvatarRarityType5",
+    "JsonPath": "Config/ConfigCharacter/Avatar/Avatar_Nihilux_10_Config.json",
+    "DamageType": "Quantum",
+    "SPNeed": {
+      "Value": 8
+    },
+    "ExpGroup": 1,
+    "MaxPromotion": 6,
+    "MaxRank": 6,
+    "RankIDList": [
+      151101,
+      151102,
+      151103,
+      151104,
+      151105,
+      151106
+    ],
+    "SkillList": [
+      151101,
+      151102,
+      151103,
+      151104,
+      151106,
+      151107,
+      151120,
+      151129,
+      151131
+    ],
+    "AvatarBaseType": "Elation",
+    "SubAvatarTypeList": [],
+    "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Nihilux_10/Avatar_Nihilux_10.prefab",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1511.png",
+    "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1511.png",
+    "AvatarMiniIconPath": "SpriteOutput/AvatarMiniIcon/1511.png",
+    "AvatarGachaResultImgPath": "SpriteOutput/AvatarDrawCardResult/1511.png",
+    "ActionAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1511B.png",
+    "UltraSkillCutInPrefabPath": "UI/Battle/UltraSkillCutIn/Avatar/UltraSkillCutIn_1511.prefab",
+    "UIAvatarModelPath": "Characters/CharacterPrefabs/Manikin/Avatar/Nihilux_10/Manikin_Avatar_Maid_Nihilux_10.prefab",
+    "ManikinJsonPath": "Config/ConfigCharacter/Manikin/Avatar/Manikin_Avatar_Nihilux_10_Config.json",
+    "AIPath": "Config/ConfigAI/ComplexSkillAIGlobalGroup/Avatar/Avatar_Nihilux_10_ComplexSkillAI.json",
+    "SkilltreePrefabPath": "UI/Avatar/Widget/JoySkillTreeGroup_1511.prefab",
+    "DamageTypeResistance": [],
+    "Release": true,
+    "SideAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1511.png",
+    "WaitingAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1511.png",
+    "AvatarCutinImgPath": "SpriteOutput/AvatarCutinFigures/1511.png",
+    "AvatarCutinBgImgPath": "SpriteOutput/AvatarCutinBg/1511.png",
+    "AvatarCutinFrontImgPath": "SpriteOutput/AvatarDrawCard/1511.png",
+    "AvatarDropOffset": [
+      51,
+      48,
+      0.58,
+      51,
+      48,
+      0.58,
+      51,
+      48,
+      0.58
+    ],
+    "AvatarTrialOffset": [],
+    "PlayerCardOffset": [],
+    "AssistOffset": [],
+    "AssistBgOffset": [],
+    "AvatarSelfShowOffset": []
+  },
+  {
     "AvatarID": 1512,
     "AvatarName": {
       "Hash": 9781128254395420869
@@ -6712,6 +6874,7 @@
       151207
     ],
     "AvatarBaseType": "Memory",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/RobinS_00/Avatar_RobinS_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1512.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1512.png",
@@ -6782,9 +6945,11 @@
       151306,
       151307,
       151320,
-      151321
+      151321,
+      151329
     ],
     "AvatarBaseType": "Elation",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/AventurineW_00/Avatar_AventurineW_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1513.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1513.png",
@@ -6858,6 +7023,7 @@
       800109
     ],
     "AvatarBaseType": "Warrior",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/PlayerBoy_00/Avatar_PlayerBoy_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/8001.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/8001.png",
@@ -6942,6 +7108,7 @@
       800209
     ],
     "AvatarBaseType": "Warrior",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/PlayerGirl_00/Avatar_PlayerGirl_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/8002.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/8002.png",
@@ -7025,6 +7192,7 @@
       800308
     ],
     "AvatarBaseType": "Knight",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/PlayerBoy_10/Avatar_PlayerBoy_10.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/8003.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/8003.png",
@@ -7108,6 +7276,7 @@
       800408
     ],
     "AvatarBaseType": "Knight",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/PlayerGirl_10/Avatar_PlayerGirl_10.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/8004.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/8004.png",
@@ -7190,6 +7359,7 @@
       800507
     ],
     "AvatarBaseType": "Shaman",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/PlayerBoy_20/Avatar_PlayerBoy_20.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/8005.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/8005.png",
@@ -7251,6 +7421,7 @@
       800607
     ],
     "AvatarBaseType": "Shaman",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/PlayerGirl_20/Avatar_PlayerGirl_20.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/8006.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/8006.png",
@@ -7314,6 +7485,7 @@
       800709
     ],
     "AvatarBaseType": "Memory",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/PlayerBoy_30/Avatar_PlayerBoy_30.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/8007.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/8007.png",
@@ -7377,6 +7549,7 @@
       800809
     ],
     "AvatarBaseType": "Memory",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/PlayerGirl_30/Avatar_PlayerGirl_30.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/8008.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/8008.png",
@@ -7436,9 +7609,11 @@
       800904,
       800906,
       800907,
-      800920
+      800920,
+      800929
     ],
     "AvatarBaseType": "Elation",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/PlayerBoy_40/Avatar_PlayerBoy_40.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/8009.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/8009.png",
@@ -7498,9 +7673,11 @@
       801004,
       801006,
       801007,
-      801020
+      801020,
+      801029
     ],
     "AvatarBaseType": "Elation",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/PlayerGirl_40/Avatar_PlayerGirl_40.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/8010.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/8010.png",
@@ -7563,6 +7740,7 @@
       101408
     ],
     "AvatarBaseType": "Warrior",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Saber_00/Avatar_Saber_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1014.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1014.png",
@@ -7654,6 +7832,7 @@
       101509
     ],
     "AvatarBaseType": "Rogue",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Archer_00/Avatar_Archer_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1015.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1015.png",
@@ -7746,6 +7925,7 @@
       150809
     ],
     "AvatarBaseType": "Mage",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/TohsakaRin_00/Avatar_TohsakaRin_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1508.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1508.png",
@@ -7838,6 +8018,7 @@
       150909
     ],
     "AvatarBaseType": "Warrior",
+    "SubAvatarTypeList": [],
     "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Gilgamesh_00/Avatar_Gilgamesh_00.prefab",
     "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIcon/Avatar/1509.png",
     "AvatarSideIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1509.png",

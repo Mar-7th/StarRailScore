@@ -929,6 +929,17 @@
     "BreakDamage": 0.1
   },
   {
+    "AvatarID": 1511,
+    "Attack": 0.1,
+    "HP": 0.2,
+    "Defence": 0.2,
+    "Speed": 1,
+    "CriticalChance": 1,
+    "CriticalDamage": 1,
+    "StatusResistance": 0.1,
+    "BreakDamage": 0.1
+  },
+  {
     "AvatarID": 1512,
     "HP": 1,
     "Defence": 0.1,
